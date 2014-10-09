@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "swh_TZ", 
+        "title": "Maendeleo ya watoto na kujifunza mapema", 
+        "slug": "maendeleo-ya-watoto-na-kujifunza-mapema", 
+        "source": null, 
+        "position": null, 
+        "featured_in_navbar": false, 
+        "id": "84c39134746243a1a04fc013fd1b1e0e"
+    }, 
+    "model": "GitCategoryModel"
+}
