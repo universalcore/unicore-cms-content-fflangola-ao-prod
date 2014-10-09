@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "swh_TZ", 
+        "title": "Lishe na ukuaji", 
+        "slug": "lishe-na-ukuaji", 
+        "source": null, 
+        "position": null, 
+        "featured_in_navbar": false, 
+        "id": "580d1f91a1c84a08a30f201143d4f3a9"
+    }, 
+    "model": "GitCategoryModel"
+}
