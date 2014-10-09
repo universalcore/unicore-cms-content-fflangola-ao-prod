@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "swh_TZ", 
+        "title": "Kunyonyesha", 
+        "slug": "kunyonyesha", 
+        "source": null, 
+        "position": null, 
+        "featured_in_navbar": false, 
+        "id": "eadb116abd4b427c84316e8f3963b2d6"
+    }, 
+    "model": "GitCategoryModel"
+}
