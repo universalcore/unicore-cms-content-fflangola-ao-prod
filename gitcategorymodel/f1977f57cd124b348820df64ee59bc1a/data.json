@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "swh_TZ", 
+        "title": "Kuchanjwa", 
+        "slug": "kuchanjwa", 
+        "source": null, 
+        "position": null, 
+        "featured_in_navbar": false, 
+        "id": "f1977f57cd124b348820df64ee59bc1a"
+    }, 
+    "model": "GitCategoryModel"
+}
