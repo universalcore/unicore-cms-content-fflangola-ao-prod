@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "swh_TZ", 
+        "title": "Kuhudumiwa wakati kinamama wakiwa wajawazito na baada tu ya kujifungua", 
+        "slug": "kuhudumiwa-wakati-kinamama-wakiwa-wajawazito-na-baada-tu-ya-kujifungua", 
+        "source": null, 
+        "position": null, 
+        "featured_in_navbar": false, 
+        "id": "27038d5886564782adcce92ec89494eb"
+    }, 
+    "model": "GitCategoryModel"
+}
