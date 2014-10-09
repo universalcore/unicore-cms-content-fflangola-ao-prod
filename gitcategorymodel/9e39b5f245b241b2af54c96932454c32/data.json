@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "swh_TZ", 
+        "title": "Maradhi ya kuharisha", 
+        "slug": "maradhi-ya-kuharisha", 
+        "source": null, 
+        "position": null, 
+        "featured_in_navbar": false, 
+        "id": "9e39b5f245b241b2af54c96932454c32"
+    }, 
+    "model": "GitCategoryModel"
+}
