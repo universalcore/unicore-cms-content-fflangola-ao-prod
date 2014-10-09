@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "swh_TZ", 
+        "title": "Ulinzi wa watoto", 
+        "slug": "ulinzi-wa-watoto", 
+        "source": null, 
+        "position": null, 
+        "featured_in_navbar": false, 
+        "id": "76ea8c058e6843689bda31c8c5c31776"
+    }, 
+    "model": "GitCategoryModel"
+}
