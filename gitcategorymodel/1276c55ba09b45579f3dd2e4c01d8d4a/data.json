@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "swh_TZ", 
+        "title": "Uzazi wa Mpango", 
+        "slug": "uzazi-wa-mpango", 
+        "source": null, 
+        "position": null, 
+        "featured_in_navbar": false, 
+        "id": "1276c55ba09b45579f3dd2e4c01d8d4a"
+    }, 
+    "model": "GitCategoryModel"
+}
