@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "Hatari za kiafya za ujauzito na za kujifungua huongezeka endapo mama ameshabeba mimba nyingi.", 
+        "language": "swh_TZ", 
+        "title": "Hatari za kiafya za ujauzito na za kujifungua huongezeka endapo  mama ameshabeba mimba nyingi.", 
+        "primary_category": "73a8bbe866944916995240f7d6aec24f", 
+        "created_at": "2014-10-10T19:06:06.328002+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-10T19:06:06.328167+00:00", 
+        "linked_pages": [], 
+        "slug": "hatari-za-kiafya-za-ujauzito-na-za-kujifungua-huongezeka-endapo-mama-ameshabeba-mimba-nyingi", 
+        "content": "Mwili wa mwanamke huchakaa kirahisi kutokana na kubeba mimba, \r\nkujifungua, na kulea watoto wadogo mara kwa mara. Baada ya kuwa \r\namebeba mimba nyingi mama hukabiliwa na hatari mbaya zaidi ya matatizo ya \r\nkiafya. Matatizo hayo ni pamoja na upungufu wa damu na upotevu wa damu \r\nnyingi wakati wa kujifungua.", 
+        "source": "b5877469e90a44c8bb5fef56f737cc03", 
+        "featured": false, 
+        "published": true, 
+        "position": 0, 
+        "id": "ccc0b053677749c0b65b4df65704a19f"
+    }, 
+    "model": "GitPageModel"
+}
