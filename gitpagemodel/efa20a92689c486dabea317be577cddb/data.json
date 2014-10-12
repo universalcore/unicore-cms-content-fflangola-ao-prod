@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "Ni salama kumchanja mtoto mwenye ugonjwa wa kawaida au\r\nulemavu, au utapiamlo. ", 
+        "language": "swh_TZ", 
+        "title": "Ni salama kumchanja mtoto mwenye ugonjwa wa kawaida au ulemavu, au utapiamlo. ", 
+        "primary_category": "f1977f57cd124b348820df64ee59bc1a", 
+        "created_at": "2014-10-12T19:43:20.569171+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-12T19:43:20.569319+00:00", 
+        "linked_pages": [], 
+        "slug": "ni-salama-kumchanja-mtoto-mwenye-ugonjwa-wa-kawaida-au-ulemavu-au-utapiamlo", 
+        "content": "Wazazi wengi hawampeleki mtoto kwenda kupewa chanjo kwa sababu mtoto\r\nana homa, kikohozi, mafua, anaharisha, au anaumwa ugonjwa mwingine. Hata\r\nhivyo, ni salama kumpa chanjo mtoto mwenye ugonjwa wa kawaida.\r\n\r\nNi salama pia kumpa chanjo mtoto mwenye ulemavu au utapiamlo. Kama\r\nmtoto ana virusi vya UKIMWI (VVU) au anahisiwa kuwa na VVU, mtaalamu wa\r\nafya anapaswa kuonwa ili atoe ushauri kuhusu aina ya chanjo inayofaa kwa\r\nmtoto.\r\n\r\nBaada ya kuchomwa sindano ya chanjo, mtoto anaweza kulia au kupandisha\r\nhoma, kuwa na mchubuko au kidonda kidogo. Hali hii ni ya kawaida na\r\nhuonyesha kuwa chanjo inafanya kazi. Watoto wenye umri wa chini ya miezi\r\n6 wanapaswa kunyonyeshwa maziwa ya mama mara kwa mara; watoto\r\nwenye umri mkubwa wanapaswa kupewa vinywaji na vyakula vingi. Kama\r\nmtoto atapandisha homa (kwa zaidi ya nyuzijoto 38) anapaswa kupelekwa kwa\r\nmtaalamu wa afya au kituo cha afya.\r\n\r\nSurua huweza kuwa hatari mno kwa watoto wenye utapiamlo, hivyo\r\nwanapaswa kupewa chanjo ya surua, hususani kama utapiamlo ni mkali.", 
+        "source": "007912a649254721b9c7be1f50a316c9", 
+        "featured": false, 
+        "published": true, 
+        "position": 0, 
+        "id": "efa20a92689c486dabea317be577cddb"
+    }, 
+    "model": "GitPageModel"
+}
