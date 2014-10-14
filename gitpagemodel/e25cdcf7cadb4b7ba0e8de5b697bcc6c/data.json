@@ -7,14 +7,14 @@
         "primary_category": null, 
         "created_at": "2014-10-14T16:45:24+00:00", 
         "featured_in_category": false, 
-        "modified_at": "2014-10-14T16:45:28.883866+00:00", 
+        "modified_at": "2014-10-14T16:48:18.901533+00:00", 
         "linked_pages": [], 
         "slug": "contact", 
-        "content": "Email: lusaka@unicef.org", 
+        "content": "Email: lusaka@unicef.org\r\n\r\nFacebook: http://www.facebook.com/UNICEFZambia\r\n\r\nTwitter: http://twitter.com/UNICEFZambia", 
         "source": null, 
         "featured": false, 
         "published": true, 
-        "position": 0, 
+        "position": 1, 
         "id": "e25cdcf7cadb4b7ba0e8de5b697bcc6c"
     }, 
     "model": "GitPageModel"
