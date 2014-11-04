@@ -4,14 +4,14 @@
   "language": "swh_TZ", 
   "title": "Kuungua kunaweza kuzuilika kwa kuhakikisha kuwa watoto wanakaa mbali na mioto, meko, vimiminika na vyakula vya moto, na nyaya za umeme zilizo wazi.", 
   "primary_category": "8db1a6f44dd9426da7a50a4664bb84cf", 
-  "created_at": "2014-10-13T11:34:03.281684+00:00", 
+  "created_at": "2014-10-13T11:34:03+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T11:34:03.282005+00:00", 
+  "modified_at": "2014-11-04T18:33:24.789283+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,7 +20,7 @@
   "source": "66b84af02cde47fba239d136c9430dd7", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 40, 
   "slug": "kuungua-kunaweza-kuzuilika-kwa-kuhakikisha-kuwa-watoto-wanakaa-mbali-na-mioto-meko-vimiminika-na-vyakula-vya-moto-na-nyaya-za-umeme-zilizo-wazi", 
   "uuid": "b4cbba9e0e494f83aa2b9e93ff88bb36"
 }
