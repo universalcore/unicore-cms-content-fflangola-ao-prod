@@ -4,14 +4,14 @@
   "language": "swh_TZ", 
   "title": "Kila mtoto ana haki ya jina na utaifa. Utaratibu wa kusajili watoto wakati wa kuzaliwa unasaidia kuhakikisha kuwa mtoto anapata haki yake ya elimu, huduma za afya, sheria na huduma za kijamii. Usajili", 
   "primary_category": "76ea8c058e6843689bda31c8c5c31776", 
-  "created_at": "2014-10-13T15:23:07.972096+00:00", 
+  "created_at": "2014-10-13T15:23:07+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T15:23:07.972407+00:00", 
+  "modified_at": "2014-11-04T18:33:11.789401+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,7 +20,7 @@
   "source": "e88ab6278afc4d8a88ca07fb7d916118", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 11, 
   "slug": "kila-mtoto-ana-haki-ya-jina-na-utaifa-utaratibu-wa-kusajili-watoto-wakati-wa-kuzaliwa-unasaidia-kuhakikisha-kuwa-mtoto-anapata-haki-yake-ya-elimu-huduma-za-afya-sheria-na-huduma-za-kijamii-usajili", 
   "uuid": "ead1c76e82754561a9f086e1275e229b"
 }
