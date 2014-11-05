@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Watoto wako katika mazingira yanayowaweka kwenye hatari ya kusafirishwa pale ambapo kuna ulinzi dhaifu au hakuna ulinzi kabisa. Serikali, asasi za kiraia na familia zina wajibu wa kuzuia usafirishaji,", 
   "primary_category": "76ea8c058e6843689bda31c8c5c31776", 
-  "created_at": "2014-10-13T15:49:27.997912+00:00", 
+  "created_at": "2014-10-13T15:49:27+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T15:49:27.998234+00:00", 
+  "modified_at": "2014-11-04T20:25:59.704301+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "e8b80ed606d94b2ea06950f223a93962", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 7, 
   "slug": "watoto-wako-katika-mazingira-yanayowaweka-kwenye-hatari-ya-kusafirishwa-pale-ambapo-kuna-ulinzi-dhaifu-au-hakuna-ulinzi-kabisa-serikali-asasi-za-kiraia-na-familia-zina-wajibu-wa-kuzuia-usafirishaji", 
   "uuid": "bd343371c0fd46a9a328e1a0f2ad9c39"
 }

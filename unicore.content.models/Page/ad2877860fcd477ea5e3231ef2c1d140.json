@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Wazazi au walezi wengineo wanapaswa kuongea na watoto wao kuhusu mahusiano, ngono na mazingira hatarishi waliyo nayo ya kuambukizwa VVU. Wasichana wenye umri mdogo ndio hasa walio katika hatari ya kua", 
   "primary_category": "62caccc5066b4e9f82185983536893fb", 
-  "created_at": "2014-10-13T14:19:57.187895+00:00", 
+  "created_at": "2014-10-13T14:19:57+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T14:19:57.188046+00:00", 
+  "modified_at": "2014-11-04T20:26:19.891042+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "bc9e4d937e1c44b6bf9a7f73a6bd77c6", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 18, 
   "slug": "wazazi-au-walezi-wengineo-wanapaswa-kuongea-na-watoto-wao-kuhusu-mahusiano-ngono-na-mazingira-hatarishi-waliyo-nayo-ya-kuambukizwa-vvu-wasichana-wenye-umri-mdogo-ndio-hasa-walio-katika-hatari-ya-kua", 
   "uuid": "ad2877860fcd477ea5e3231ef2c1d140"
 }

@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Wasichana na wavulana wanaweza kuwa katika hatari ya kufanyiwa ukatili na kutumiwa katika biashara ya ngono nyumbani, shuleni, mahali pa kazi au katika jamii. Hatua zinapaswa kuchukuliwa ili kuzuia uk", 
   "primary_category": "76ea8c058e6843689bda31c8c5c31776", 
-  "created_at": "2014-10-13T15:46:56.146159+00:00", 
+  "created_at": "2014-10-13T15:46:56+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T15:46:56.146467+00:00", 
+  "modified_at": "2014-11-04T20:26:05.238254+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "eb3a513533444e1382e02c6b7a1fdab3", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 8, 
   "slug": "wasichana-na-wavulana-wanaweza-kuwa-katika-hatari-ya-kufanyiwa-ukatili-na-kutumiwa-katika-biashara-ya-ngono-nyumbani-shuleni-mahali-pa-kazi-au-katika-jamii-hatua-zinapaswa-kuchukuliwa-ili-kuzuia-uk", 
   "uuid": "01a0f1b22e7f47928faf66b275df7f7e"
 }

@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "172 Kila mtoto anapaswa kuwa na fursa ya kukua katika familia. Ikiwa familia haina uwezo wa kumtunza mtoto, hatua zinapaswa kuchukuliwa ili kushughulikia sababu hizo na kila jitihada ifanywe ili kuiwe", 
   "primary_category": "76ea8c058e6843689bda31c8c5c31776", 
-  "created_at": "2014-10-13T15:19:37.562056+00:00", 
+  "created_at": "2014-10-13T15:19:37+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T15:19:37.562321+00:00", 
+  "modified_at": "2014-11-04T20:26:16.425880+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "541a9f5691f346069c3a81e1a8cc178f", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 12, 
   "slug": "172-kila-mtoto-anapaswa-kuwa-na-fursa-ya-kukua-katika-familia-ikiwa-familia-haina-uwezo-wa-kumtunza-mtoto-hatua-zinapaswa-kuchukuliwa-ili-kushughulikia-sababu-hizo-na-kila-jitihada-ifanywe-ili-kuiwe", 
   "uuid": "47cea8dae375483e9f4a944f1a79a098"
 }

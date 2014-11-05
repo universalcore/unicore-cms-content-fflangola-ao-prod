@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Surua, kuhara, homa ya vichomi, malaria, utapiamlo na matatizo ya mtoto aliyezaliwa muda mfupi uliopita ni vyanzo vikubwa vinavyochangia vifo vya watoto wakati wa dharura. ", 
   "primary_category": "de2b830c9bc74c8590ed0ffdc90f2758", 
-  "created_at": "2014-10-13T12:53:04.555147+00:00", 
+  "created_at": "2014-10-13T12:53:04+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T12:53:04.555467+00:00", 
+  "modified_at": "2014-11-04T20:26:24.795456+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "5bf20e72fe4f4b56b4853fe87b83e4fe", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 34, 
   "slug": "surua-kuhara-homa-ya-vichomi-malaria-utapiamlo-na-matatizo-ya-mtoto-aliyezaliwa-muda-mfupi-uliopita-ni-vyanzo-vikubwa-vinavyochangia-vifo-vya-watoto-wakati-wa-dharura", 
   "uuid": "b3ddaf3d5e384077a16b1155d49e3d7a"
 }

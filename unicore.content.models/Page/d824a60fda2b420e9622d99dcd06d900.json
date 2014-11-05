@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Wanafamilia wote, ikiwa ni pamoja na watoto, wanapaswa kunawa mikono yao vizuri kwa sabuni na maji kila baada ya kushika kinyesi, kabla ya kugusa au kuandaa chakula, na kabla ya kulisha watoto. Pale a", 
   "primary_category": "ab26c6bfad66410a82b0e274f4c3b729", 
-  "created_at": "2014-10-13T10:27:03.792542+00:00", 
+  "created_at": "2014-10-13T10:27:03+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T10:27:03.792812+00:00", 
+  "modified_at": "2014-11-04T20:26:28.635868+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "8b0d0e62cfdf4e76872a185eaeafc665", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 47, 
   "slug": "wanafamilia-wote-ikiwa-ni-pamoja-na-watoto-wanapaswa-kunawa-mikono-yao-vizuri-kwa-sabuni-na-maji-kila-baada-ya-kushika-kinyesi-kabla-ya-kugusa-au-kuandaa-chakula-na-kabla-ya-kulisha-watoto-pale", 
   "uuid": "d824a60fda2b420e9622d99dcd06d900"
 }

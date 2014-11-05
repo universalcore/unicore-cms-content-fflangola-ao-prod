@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Mabomu ya kutegwa ardhini na zana nyingine za vita ambazo hazijalipuka ni hatari sana. Vinaweza kulipuka na kuua au kusababisha ulemavu kwa watu wengi vikiguswa, vikikanyagwa au vikichezewa kwa njia y", 
   "primary_category": "de2b830c9bc74c8590ed0ffdc90f2758", 
-  "created_at": "2014-10-13T13:34:37.340715+00:00", 
+  "created_at": "2014-10-13T13:34:37+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T13:34:37.340947+00:00", 
+  "modified_at": "2014-11-04T20:26:22.741325+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "3ea74751a44c451c9d2f6fdcce1e0ebf", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 27, 
   "slug": "mabomu-ya-kutegwa-ardhini-na-zana-nyingine-za-vita-ambazo-hazijalipuka-ni-hatari-sana-vinaweza-kulipuka-na-kuua-au-kusababisha-ulemavu-kwa-watu-wengi-vikiguswa-vikikanyagwa-au-vikichezewa-kwa-njia-y", 
   "uuid": "40860e0085104f6598baf6eac2b4f0e9"
 }

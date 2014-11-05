@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Wasichana na wavulana, familia na jamii zao wanapaswa kupanga mpango na kuchukua hatua rahisi ili kujiandaa na hali ya dharura \u2013 nyumbani, shuleni na katika jamii. ", 
   "primary_category": "de2b830c9bc74c8590ed0ffdc90f2758", 
-  "created_at": "2014-10-13T12:49:31.607248+00:00", 
+  "created_at": "2014-10-13T12:49:31+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T12:49:31.607409+00:00", 
+  "modified_at": "2014-11-04T20:26:25.088883+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "560f70de5b784798be87a9e9bd8eafb2", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 35, 
   "slug": "wasichana-na-wavulana-familia-na-jamii-zao-wanapaswa-kupanga-mpango-na-kuchukua-hatua-rahisi-ili-kujiandaa-na-hali-ya-dharura-nyumbani-shuleni-na-katika-jamii", 
   "uuid": "8fe0bb539c894c62800a5a5654491f63"
 }

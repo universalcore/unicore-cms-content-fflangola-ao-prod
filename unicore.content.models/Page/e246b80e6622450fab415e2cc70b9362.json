@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Familia zinaweza kusaidia katika kuzuia nyumonia kwa kuhakikisha kwamba watoto wanalishwa maziwa ya mama pekee kwa miezi sita na kwamba watoto wote wanapata lishe ya kutosha pamoja na chanjo zote muhi", 
   "primary_category": "2ffe198e7447448e825f4cb543fb7267", 
-  "created_at": "2014-10-13T09:02:30.356485+00:00", 
+  "created_at": "2014-10-13T09:02:30+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T09:02:30.356794+00:00", 
+  "modified_at": "2014-11-04T20:26:29.909576+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "0fabe241a95848b78e2d7ebbe2a5e077", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 51, 
   "slug": "familia-zinaweza-kusaidia-katika-kuzuia-nyumonia-kwa-kuhakikisha-kwamba-watoto-wanalishwa-maziwa-ya-mama-pekee-kwa-miezi-sita-na-kwamba-watoto-wote-wanapata-lishe-ya-kutosha-pamoja-na-chanjo-zote-muhi", 
   "uuid": "e246b80e6622450fab415e2cc70b9362"
 }

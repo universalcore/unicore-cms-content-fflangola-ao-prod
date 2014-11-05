@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Kuanguka ni chanzo kikubwa cha majeraha kwa watoto. Ngazi, baraza la ghorofani, mapaa, madirisha na maeneo wanayotumia kwa kucheza na kulala yanapaswa kuwekwa katika hali ya usalama kwa kutumia vizuiz", 
   "primary_category": "8db1a6f44dd9426da7a50a4664bb84cf", 
-  "created_at": "2014-10-13T11:42:49.116777+00:00", 
+  "created_at": "2014-10-13T11:42:49+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T11:42:49.117107+00:00", 
+  "modified_at": "2014-11-04T20:26:26.342820+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "83486e34053c4d9bb0f40f8615476883", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 39, 
   "slug": "kuanguka-ni-chanzo-kikubwa-cha-majeraha-kwa-watoto-ngazi-baraza-la-ghorofani-mapaa-madirisha-na-maeneo-wanayotumia-kwa-kucheza-na-kulala-yanapaswa-kuwekwa-katika-hali-ya-usalama-kwa-kutumia-vizuiz", 
   "uuid": "fe858771acb6415ab8327380ab64ee1b"
 }

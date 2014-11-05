@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Watoto wanapaswa kulindwa kutokana na kazi za hatari. Kazi zisizuie watoto kwenda shuleni. Watoto kamwe hawapaswi kujihusisha na aina yoyote ya kazi mbaya za watoto, kama vile utumwa, kazi za kulazimi", 
   "primary_category": "76ea8c058e6843689bda31c8c5c31776", 
-  "created_at": "2014-10-13T15:43:52.514415+00:00", 
+  "created_at": "2014-10-13T15:43:52+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T15:43:52.514661+00:00", 
+  "modified_at": "2014-11-04T20:26:08.796426+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "00e4d2b6f95b470e9188442af1bf337f", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 9, 
   "slug": "watoto-wanapaswa-kulindwa-kutokana-na-kazi-za-hatari-kazi-zisizuie-watoto-kwenda-shuleni-watoto-kamwe-hawapaswi-kujihusisha-na-aina-yoyote-ya-kazi-mbaya-za-watoto-kama-vile-utumwa-kazi-za-kulazimi", 
   "uuid": "0822cf92b8c8486097630095ad1bb8ef"
 }

@@ -2,7 +2,7 @@
   "subtitle": "", 
   "uuid": "8db1a6f44dd9426da7a50a4664bb84cf", 
   "language": "swh_TZ", 
-  "title": "Ulinzi dhidi ya majeraha", 
+  "title": "Kuzuia Majeraha", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -10,8 +10,9 @@
     "language": "python", 
     "package": "elastic-git"
   }, 
-  "slug": "ulinzi-dhidi-ya-majeraha", 
-  "source": null, 
+  "slug": "kuzuia-majeraha", 
+  "source": "2e0df7a35a004e3793718eb1aa9ede6a", 
+  "position": null, 
   "featured_in_navbar": false, 
   "id": "8db1a6f44dd9426da7a50a4664bb84cf"
 }

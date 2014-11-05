@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Ugonjwa wa malaria huenea kwa kuumwa na mbu. Njia bora ya kujikinga na malaria ni kutumia vyandarua vilivyowekwa dawa ya muda mrefu.", 
   "primary_category": "50790d85e8594cb192f47187ec0b26d0", 
-  "created_at": "2014-10-13T13:46:55.123425+00:00", 
+  "created_at": "2014-10-13T13:46:55+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T13:46:55.123745+00:00", 
+  "modified_at": "2014-11-04T20:26:22.421300+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "73aab20a74404b589f60155590f2c11f", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 26, 
   "slug": "ugonjwa-wa-malaria-huenea-kwa-kuumwa-na-mbu-njia-bora-ya-kujikinga-na-malaria-ni-kutumia-vyandarua-vilivyowekwa-dawa-ya-muda-mrefu", 
   "uuid": "0ed26049a4c64f5c9b504e6c10e0c39d"
 }

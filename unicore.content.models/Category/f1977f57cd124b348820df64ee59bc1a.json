@@ -2,7 +2,7 @@
   "subtitle": "", 
   "uuid": "f1977f57cd124b348820df64ee59bc1a", 
   "language": "swh_TZ", 
-  "title": "Kuchanjwa", 
+  "title": "Chanjo", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -10,8 +10,9 @@
     "language": "python", 
     "package": "elastic-git"
   }, 
-  "slug": "kuchanjwa", 
-  "source": null, 
+  "slug": "chanjo", 
+  "source": "74843060af944a698b9a33574f3275d4", 
+  "position": null, 
   "featured_in_navbar": false, 
   "id": "f1977f57cd124b348820df64ee59bc1a"
 }

@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Watoto wote wana haki ya kupata taarifa zinazolingana na umri wao, kusikilizwa na kushiriki katika kutoa uamuzi unaowahusu. Utekelezaji wa haki hii unawawezesha watoto kuwajibika kikamilifu katika kuj", 
   "primary_category": "76ea8c058e6843689bda31c8c5c31776", 
-  "created_at": "2014-10-13T15:55:55.642589+00:00", 
+  "created_at": "2014-10-13T15:55:55+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T15:55:55.642916+00:00", 
+  "modified_at": "2014-11-04T20:25:46.144044+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "170805c42d6b4475bd3a3f943c16712e", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 4, 
   "slug": "watoto-wote-wana-haki-ya-kupata-taarifa-zinazolingana-na-umri-wao-kusikilizwa-na-kushiriki-katika-kutoa-uamuzi-unaowahusu-utekelezaji-wa-haki-hii-unawawezesha-watoto-kuwajibika-kikamilifu-katika-kuj", 
   "uuid": "de2fcfe1102c43dfb22089902bd5be49"
 }

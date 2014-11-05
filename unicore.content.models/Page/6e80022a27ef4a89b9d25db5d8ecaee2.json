@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Wazazi, walimu, viongozi rika, na watu wengineo ambao ni mfano wa kuigwa wanapaswa kuwapatia vijana mazingira salama na stadi mbalimbali za maisha zinazoweza kuwasaidia kuamua kuhusu afya na kuenenda ", 
   "primary_category": "62caccc5066b4e9f82185983536893fb", 
-  "created_at": "2014-10-13T14:26:33.040371+00:00", 
+  "created_at": "2014-10-13T14:26:33+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T14:26:33.040518+00:00", 
+  "modified_at": "2014-11-04T20:26:19.559053+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "537507b36a1a4c35a2fcdbbc0af3ef46", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 17, 
   "slug": "wazazi-walimu-viongozi-rika-na-watu-wengineo-ambao-ni-mfano-wa-kuigwa-wanapaswa-kuwapatia-vijana-mazingira-salama-na-stadi-mbalimbali-za-maisha-zinazoweza-kuwasaidia-kuamua-kuhusu-afya-na-kuenenda", 
   "uuid": "6e80022a27ef4a89b9d25db5d8ecaee2"
 }

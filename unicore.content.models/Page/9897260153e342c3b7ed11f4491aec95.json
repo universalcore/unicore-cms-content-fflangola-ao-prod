@@ -6,7 +6,7 @@
   "primary_category": "f2a53caa0a8943bca4901f2855338841", 
   "created_at": "2014-09-12T10:17:22.642812+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-09-12T10:17:22.648195+00:00", 
+  "modified_at": "2014-11-04T20:25:51.973438+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -16,11 +16,11 @@
   }, 
   "linked_pages": [], 
   "id": "9897260153e342c3b7ed11f4491aec95", 
-  "content": "Tuberculosis is a serious disease that can kill a child or permanently damage\nthe lungs. Families and caregivers can help prevent tuberculosis if they\nensure that children:\n\n  * are fully immunized - BCG immunization offers some protection against some forms of tuberculosis\n  * are kept away from anyone who has tuberculosis or has a cough with blood in the sputum.\n\nIf a trained health worker provides special medicine for tuberculosis, it is\nimportant to give the child all the medicine according to the instructions. It\nmust be given for as long as specified, even if the child seems better. If\nnot, the child could build up resistance to the medicine, reducing its\neffectiveness the next time it is needed.\n\n", 
+  "content": "Tuberculosis is a serious disease that can kill a child or permanently damage\nthe lungs. Families and caregivers can help prevent tuberculosis if they\nensure that children: * are fully immunized - BCG immunization offers some\nprotection against some forms of tuberculosis * are kept away from anyone who\nhas tuberculosis or has a cough with blood in the sputum. If a trained health\nworker provides special medicine for tuberculosis, it is important to give the\nchild all the medicine according to the instructions. It must be given for as\nlong as specified, even if the child seems better. If not, the child could\nbuild up resistance to the medicine, reducing its effectiveness the next time\nit is needed.\n\n", 
   "source": null, 
   "featured": false, 
   "published": true, 
-  "position": null, 
+  "position": 5, 
   "slug": "a-child-who-has-a-prolonged-cough-that-persists-for-more-than-three-weeks-needs-immediate-medical-attention-the-child-may-have-tuberculosis-an-infection-in-the-lungs", 
   "uuid": "9897260153e342c3b7ed11f4491aec95"
 }

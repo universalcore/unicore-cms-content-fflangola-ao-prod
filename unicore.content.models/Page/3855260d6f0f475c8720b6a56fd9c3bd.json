@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Visu, mikasi, vitu vyenye ncha kali na chupa zilizopasuka huweza kusababisha majeraha.", 
   "primary_category": "8db1a6f44dd9426da7a50a4664bb84cf", 
-  "created_at": "2014-10-13T11:48:11.665796+00:00", 
+  "created_at": "2014-10-13T11:48:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T11:48:11.665949+00:00", 
+  "modified_at": "2014-11-04T20:26:25.730749+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "6620d628e50d45f79ff4f7304fb16883", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 37, 
   "slug": "visu-mikasi-vitu-vyenye-ncha-kali-na-chupa-zilizopasuka-huweza-kusababisha-majeraha", 
   "uuid": "3855260d6f0f475c8720b6a56fd9c3bd"
 }

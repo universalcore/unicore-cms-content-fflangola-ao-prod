@@ -2,7 +2,7 @@
   "subtitle": "", 
   "uuid": "de2b830c9bc74c8590ed0ffdc90f2758", 
   "language": "swh_TZ", 
-  "title": "Kukabiliana na dharura wakati wowote", 
+  "title": "Dharura: Utayari na Jinsi ya kukabiliana nazo", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -10,8 +10,9 @@
     "language": "python", 
     "package": "elastic-git"
   }, 
-  "slug": "kukabiliana-na-dharura-wakati-wowote", 
-  "source": null, 
+  "slug": "dharura-utayari-na-jinsi-ya-kukabiliana-nazo", 
+  "source": "13268372781c4187a13a871b7c177fd0", 
+  "position": null, 
   "featured_in_navbar": false, 
   "id": "de2b830c9bc74c8590ed0ffdc90f2758"
 }

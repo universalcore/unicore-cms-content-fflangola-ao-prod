@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Maji yote ambayo watu hunywa na kutumia yanapaswa kutoka katika chanzo salama au yawe yamesafishwa. Vyombo vya kuchotea, kubebea na kutunzia maji vinapaswa kuwa safi ndani na nje na kufunikwa ili kuwe", 
   "primary_category": "ab26c6bfad66410a82b0e274f4c3b729", 
-  "created_at": "2014-10-13T10:45:45.151186+00:00", 
+  "created_at": "2014-10-13T10:45:45+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T10:45:45.151508+00:00", 
+  "modified_at": "2014-11-04T20:26:28.046181+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "34bc9a501d284966b428f57f212dec75", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 45, 
   "slug": "maji-yote-ambayo-watu-hunywa-na-kutumia-yanapaswa-kutoka-katika-chanzo-salama-au-yawe-yamesafishwa-vyombo-vya-kuchotea-kubebea-na-kutunzia-maji-vinapaswa-kuwa-safi-ndani-na-nje-na-kufunikwa-ili-kuwe", 
   "uuid": "c9f614b54ce6453b8c130a389c790302"
 }

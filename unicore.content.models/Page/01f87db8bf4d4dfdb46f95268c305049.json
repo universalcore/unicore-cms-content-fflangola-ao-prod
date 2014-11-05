@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Watoto wanaweza kufa kwa kuzama majini kwa muda wa chini ya dakika 2 na kwa kiasi kidogo sana cha maji, hata katika beseni la kuogea. Kamwe wasiachwe peke yao majini au karibu na maji.", 
   "primary_category": "8db1a6f44dd9426da7a50a4664bb84cf", 
-  "created_at": "2014-10-13T11:27:15.228514+00:00", 
+  "created_at": "2014-10-13T11:27:15+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T11:27:15.228844+00:00", 
+  "modified_at": "2014-11-04T20:26:26.893077+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "518e07182193461590d6a88f1d19db05", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 41, 
   "slug": "watoto-wanaweza-kufa-kwa-kuzama-majini-kwa-muda-wa-chini-ya-dakika-2-na-kwa-kiasi-kidogo-sana-cha-maji-hata-katika-beseni-la-kuogea-kamwe-wasiachwe-peke-yao-majini-au-karibu-na-maji", 
   "uuid": "01f87db8bf4d4dfdb46f95268c305049"
 }

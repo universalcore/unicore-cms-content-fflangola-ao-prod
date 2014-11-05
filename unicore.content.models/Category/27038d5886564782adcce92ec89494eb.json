@@ -2,7 +2,7 @@
   "subtitle": "", 
   "uuid": "27038d5886564782adcce92ec89494eb", 
   "language": "swh_TZ", 
-  "title": "Kuhudumiwa wakati kinamama wakiwa wajawazito na baada tu ya kujifungua", 
+  "title": "Uzazi Salama na Afya ya Mtoto Mchanga", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -10,8 +10,9 @@
     "language": "python", 
     "package": "elastic-git"
   }, 
-  "slug": "kuhudumiwa-wakati-kinamama-wakiwa-wajawazito-na-baada-tu-ya-kujifungua", 
-  "source": null, 
+  "slug": "uzazi-salama-na-afya-ya-mtoto-mchanga", 
+  "source": "e1da05c882364f7c891f9da57f5e981d", 
+  "position": null, 
   "featured_in_navbar": false, 
   "id": "27038d5886564782adcce92ec89494eb"
 }

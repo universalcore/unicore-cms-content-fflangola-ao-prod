@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Mama wajawazito wote wanapaswa kuzungumza na wataalam wa afya kuhusu VVU. Mama wajawazito wote wanaodhani kuwa wana wenza au wanafamilia walioambukizwa VVU, wako katika mazingira ya kuambukizwa VVU, a", 
   "primary_category": "62caccc5066b4e9f82185983536893fb", 
-  "created_at": "2014-10-13T14:14:51.438223+00:00", 
+  "created_at": "2014-10-13T14:14:51+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T14:14:51.438391+00:00", 
+  "modified_at": "2014-11-04T20:26:20.525509+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "8225c9a23e9b4b9ba2d6cd192fad5951", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 20, 
   "slug": "mama-wajawazito-wote-wanapaswa-kuzungumza-na-wataalam-wa-afya-kuhusu-vvu-mama-wajawazito-wote-wanaodhani-kuwa-wana-wenza-au-wanafamilia-walioambukizwa-vvu-wako-katika-mazingira-ya-kuambukizwa-vvu", 
   "uuid": "9a485b92509844058c4454f6ad58f1f7"
 }

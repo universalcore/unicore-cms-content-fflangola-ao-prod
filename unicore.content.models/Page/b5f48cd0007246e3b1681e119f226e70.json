@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Kunawa uso na mikono kwa sabuni kila siku kunasaidia kujikinga na maambukizo ya magonjwa ya macho. Katika baadhi ya sehemu duniani, maambukizo ya macho husababisha kupata maambukizo ya trakoma (mtoto ", 
   "primary_category": "ab26c6bfad66410a82b0e274f4c3b729", 
-  "created_at": "2014-10-13T10:28:53.138921+00:00", 
+  "created_at": "2014-10-13T10:28:53+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T10:28:53.139067+00:00", 
+  "modified_at": "2014-11-04T20:26:28.327212+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "94c6b792a5604de6be1fcab54ba518cc", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 46, 
   "slug": "kunawa-uso-na-mikono-kwa-sabuni-kila-siku-kunasaidia-kujikinga-na-maambukizo-ya-magonjwa-ya-macho-katika-baadhi-ya-sehemu-duniani-maambukizo-ya-macho-husababisha-kupata-maambukizo-ya-trakoma-mtoto", 
   "uuid": "b5f48cd0007246e3b1681e119f226e70"
 }

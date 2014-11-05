@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Vinyesi, ikiwa ni pamoja na vile vya watoto wachanga, vinapaswa kutupwa mahali salama. Kuhakikisha kuwa wanafamilia wote wanatumia choo, au kifaa cha kuendea haja (kwa watoto wadogo) kama njia bora ya", 
   "primary_category": "ab26c6bfad66410a82b0e274f4c3b729", 
-  "created_at": "2014-10-13T10:22:49.171971+00:00", 
+  "created_at": "2014-10-13T10:22:49+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T10:22:49.172288+00:00", 
+  "modified_at": "2014-11-04T20:26:28.999402+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "e33464393a654a9ebebd479a45a12d1d", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 48, 
   "slug": "vinyesi-ikiwa-ni-pamoja-na-vile-vya-watoto-wachanga-vinapaswa-kutupwa-mahali-salama-kuhakikisha-kuwa-wanafamilia-wote-wanatumia-choo-au-kifaa-cha-kuendea-haja-kwa-watoto-wadogo-kama-njia-bora-ya", 
   "uuid": "214fc83164934b05948adf9fb92daa7c"
 }

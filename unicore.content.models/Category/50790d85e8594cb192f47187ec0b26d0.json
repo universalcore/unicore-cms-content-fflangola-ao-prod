@@ -11,7 +11,8 @@
     "package": "elastic-git"
   }, 
   "slug": "malaria", 
-  "source": null, 
+  "source": "669a1d68010e413a96e8aefdf86ea142", 
+  "position": null, 
   "featured_in_navbar": false, 
   "id": "50790d85e8594cb192f47187ec0b26d0"
 }

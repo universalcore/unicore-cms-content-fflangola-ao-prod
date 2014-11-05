@@ -2,7 +2,7 @@
   "subtitle": "", 
   "uuid": "73a8bbe866944916995240f7d6aec24f", 
   "language": "swh_TZ", 
-  "title": "Afya ya kinamama na watoto", 
+  "title": "Uzazi wa Mpango", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -10,8 +10,9 @@
     "language": "python", 
     "package": "elastic-git"
   }, 
-  "slug": "afya-ya-kinamama-na-watoto", 
-  "source": null, 
+  "slug": "uzazi-wa-mpango", 
+  "source": "c46a3615250b4430afdc6ff47cccc121", 
+  "position": null, 
   "featured_in_navbar": false, 
   "id": "73a8bbe866944916995240f7d6aec24f"
 }

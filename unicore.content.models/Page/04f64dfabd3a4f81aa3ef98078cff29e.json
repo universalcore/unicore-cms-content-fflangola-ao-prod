@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Watoto wana haki ya kupata elimu, hata wakati wa dharura. Kuwapeleka watoto katika shule salama, inayowafaa kunasaidia kuwaongezea nguvu ya kurudi katika hali ya kawaida na kuanza mchakato wa kupona. ", 
   "primary_category": "de2b830c9bc74c8590ed0ffdc90f2758", 
-  "created_at": "2014-10-13T13:30:22.974907+00:00", 
+  "created_at": "2014-10-13T13:30:22+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T13:30:22.975232+00:00", 
+  "modified_at": "2014-11-04T20:26:23.055218+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "2638754faf1c49748f30fda0d8e0abd6", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 28, 
   "slug": "watoto-wana-haki-ya-kupata-elimu-hata-wakati-wa-dharura-kuwapeleka-watoto-katika-shule-salama-inayowafaa-kunasaidia-kuwaongezea-nguvu-ya-kurudi-katika-hali-ya-kawaida-na-kuanza-mchakato-wa-kupona", 
   "uuid": "04f64dfabd3a4f81aa3ef98078cff29e"
 }

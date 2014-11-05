@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Kila palipo na malaria, watoto huwa wako hatarini. Mtoto anayeumwa malaria anapaswa kuchunguzwa mapema na mtaalam wa afya na kupata tiba sahihi dhidi ya malaria mapema iwezekanavyo akibainika kuwa na ", 
   "primary_category": "50790d85e8594cb192f47187ec0b26d0", 
-  "created_at": "2014-10-13T13:49:19.571343+00:00", 
+  "created_at": "2014-10-13T13:49:19+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T13:49:19.571499+00:00", 
+  "modified_at": "2014-11-04T20:26:22.113206+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 25, 
   "slug": "kila-palipo-na-malaria-watoto-huwa-wako-hatarini-mtoto-anayeumwa-malaria-anapaswa-kuchunguzwa-mapema-na-mtaalam-wa-afya-na-kupata-tiba-sahihi-dhidi-ya-malaria-mapema-iwezekanavyo-akibainika-kuwa-na", 
   "uuid": "f4590d0078a64b66a13557f70fa6af64"
 }

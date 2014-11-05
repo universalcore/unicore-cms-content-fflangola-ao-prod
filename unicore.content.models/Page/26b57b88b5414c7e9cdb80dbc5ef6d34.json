@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Mtoto ambaye ana kikohozi cha muda mrefu kilichodumu kwa muda wa zaidi ya wiki tatu anahitaji kufanyiwa uchunguzi haraka. Mtoto anaweza kuwa na kifua kikuu, maambukizo katika mapafu. ", 
   "primary_category": "2ffe198e7447448e825f4cb543fb7267", 
-  "created_at": "2014-10-13T09:12:56.142954+00:00", 
+  "created_at": "2014-10-13T09:12:56+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T09:12:56.143286+00:00", 
+  "modified_at": "2014-11-04T20:26:29.586465+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -16,11 +16,11 @@
   }, 
   "linked_pages": [], 
   "id": "26b57b88b5414c7e9cdb80dbc5ef6d34", 
-  "content": "Kifua kikuu ni ugonjwa hatari ambao unaweza kumuua mtoto au kusababisha\r\nuharibifu wa kudumu wa mapafu yake. Familia pamoja na walezi wengine\r\nwanaweza kuzuia kifuakikuu endapo watahakikisha kwamba watoto: \r\n\r\n- wamepata chanjo zote \u2014 chanjo ya BCG hukinga watoto dhidi ya aina\r\nfulani fulani za kifua kikuus\u0000\r\n\r\n- hawachanganyiki na mtu yeyote mwenye kifua kikuu au ambaye anakohoa\r\nmakozi yenye mchanganyiko wa damu. \r\n\r\nIkiwa mtaalamu wa afya ametoa dawa maalumu ya kutibu kifua kikuu, ni\r\nlazima mtoto apewe dawa kwa kuzingatia maelekezo ya mtaalamu huyo.\r\nMtoto apewe dawa mpaka amalize dozi aliyoandikiwa hata kama ataonyesha\r\ndalili za kupona. Endapo mtoto hatamaliza dozi ya dawa, kuna hatari ya vijidudu\r\nvya ugonjwa kujenga usugu wa dawa, na hivyo kufanya ugonjwa usitibike\r\nkirahisi endapo utakapomshika tena mtoto. ", 
+  "content": "Kifua kikuu ni ugonjwa hatari ambao unaweza kumuua mtoto au kusababisha\r\nuharibifu wa kudumu wa mapafu yake. Familia pamoja na walezi wengine\r\nwanaweza kuzuia kifuakikuu endapo watahakikisha kwamba watoto: \r\n\r\n- wamepata chanjo zote \u2014 chanjo ya BCG hukinga watoto dhidi ya aina\r\nfulani fulani za kifua kikuus", 
   "source": "9897260153e342c3b7ed11f4491aec95", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 50, 
   "slug": "mtoto-ambaye-ana-kikohozi-cha-muda-mrefu-kilichodumu-kwa-muda-wa-zaidi-ya-wiki-tatu-anahitaji-kufanyiwa-uchunguzi-haraka-mtoto-anaweza-kuwa-na-kifua-kikuu-maambukizo-katika-mapafu", 
   "uuid": "26b57b88b5414c7e9cdb80dbc5ef6d34"
 }

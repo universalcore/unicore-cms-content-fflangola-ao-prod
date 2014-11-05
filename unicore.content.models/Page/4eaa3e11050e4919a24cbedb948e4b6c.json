@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Mlipuko wa ugonjwa unaweza kusababisha hali ya dharura kwa sababu ya ukubwa wa tatizo lenyewe au kwa sababu ya hatua zinazochukuliwa na jamii katika kukabiliana na ugonjwa huo. Kwa ugonjwa wa mfua na ", 
   "primary_category": "de2b830c9bc74c8590ed0ffdc90f2758", 
-  "created_at": "2014-10-13T12:55:25.344666+00:00", 
+  "created_at": "2014-10-13T12:55:25+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T12:55:25.344882+00:00", 
+  "modified_at": "2014-11-04T20:26:24.503795+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "8ec3a706cd14498cb211105407a9d326", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 33, 
   "slug": "mlipuko-wa-ugonjwa-unaweza-kusababisha-hali-ya-dharura-kwa-sababu-ya-ukubwa-wa-tatizo-lenyewe-au-kwa-sababu-ya-hatua-zinazochukuliwa-na-jamii-katika-kukabiliana-na-ugonjwa-huo-kwa-ugonjwa-wa-mfua-na", 
   "uuid": "4eaa3e11050e4919a24cbedb948e4b6c"
 }

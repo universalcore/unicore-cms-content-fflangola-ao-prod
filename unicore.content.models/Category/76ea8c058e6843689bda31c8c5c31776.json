@@ -2,7 +2,7 @@
   "subtitle": "", 
   "uuid": "76ea8c058e6843689bda31c8c5c31776", 
   "language": "swh_TZ", 
-  "title": "Ulinzi wa watoto", 
+  "title": " Ulinzi kwa Mtoto", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -10,8 +10,9 @@
     "language": "python", 
     "package": "elastic-git"
   }, 
-  "slug": "ulinzi-wa-watoto", 
-  "source": null, 
+  "slug": "ulinzi-kwa-mtoto", 
+  "source": "d9e9675890c74fad9bbe83edff36bb7c", 
+  "position": null, 
   "featured_in_navbar": false, 
   "id": "76ea8c058e6843689bda31c8c5c31776"
 }

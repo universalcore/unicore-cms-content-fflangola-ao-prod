@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Wasichana na wavulana lazima walindwe dhidi ya aina zote za unyanyasaji na udhalilishaji. Hii ni pamoja na udhalilishaji wa kimwili, kijinsia na kihisia, kupuuzwa, na vitendo vinavyodhuru kama vile nd", 
   "primary_category": "76ea8c058e6843689bda31c8c5c31776", 
-  "created_at": "2014-10-13T15:40:23.103017+00:00", 
+  "created_at": "2014-10-13T15:40:23+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-13T15:40:23.103335+00:00", 
+  "modified_at": "2014-11-04T20:26:11.675154+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,7 +20,7 @@
   "source": "8310b2268c244582abc0f714bdd4d95d", 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 10, 
   "slug": "wasichana-na-wavulana-lazima-walindwe-dhidi-ya-aina-zote-za-unyanyasaji-na-udhalilishaji-hii-ni-pamoja-na-udhalilishaji-wa-kimwili-kijinsia-na-kihisia-kupuuzwa-na-vitendo-vinavyodhuru-kama-vile-nd", 
   "uuid": "cd51d8b7667b4725939e78dd0f726aa2"
 }
