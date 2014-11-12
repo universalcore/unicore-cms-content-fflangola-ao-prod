@@ -2,17 +2,17 @@
   "subtitle": "", 
   "uuid": "ab26c6bfad66410a82b0e274f4c3b729", 
   "language": "swh_TZ", 
-  "title": "Usafi", 
+  "title": "Kuzuia magonjwa", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "slug": "usafi", 
-  "source": "3415ea2a4314433ca7645eff98afde2c", 
-  "position": 10, 
+  "slug": "kuzuia-magonjwa", 
+  "source": null, 
+  "position": null, 
   "featured_in_navbar": false, 
   "id": "ab26c6bfad66410a82b0e274f4c3b729"
 }
