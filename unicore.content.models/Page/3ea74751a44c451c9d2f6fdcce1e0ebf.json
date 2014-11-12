@@ -6,12 +6,12 @@
   "primary_category": "13268372781c4187a13a871b7c177fd0", 
   "created_at": "2014-09-12T10:59:07.961821+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-12T08:40:58.120308+00:00", 
+  "modified_at": "2014-11-12T11:17:58.329743+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,7 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 9, 
   "slug": "landmines-and-unexploded-devices-are-extremely-dangerous-they-can-explode-and-kill-or-disable-many-people-if-touched-stepped-on-or-disturbed-in-any-way-children-and-their-families-should-stay-only", 
   "uuid": "3ea74751a44c451c9d2f6fdcce1e0ebf"
 }
