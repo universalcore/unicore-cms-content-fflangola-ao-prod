@@ -6,12 +6,12 @@
   "primary_category": "6dab72d2d4c34cbfb4fe91df729cdbb0", 
   "created_at": "2014-09-12T09:16:44.736425+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-05T12:34:14.328663+00:00", 
+  "modified_at": "2014-11-12T08:41:10.840036+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,7 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
-  "position": 3, 
+  "position": 0, 
   "slug": "breastmilk-alone-is-the-only-food-and-drink-an-infant-needs-in-the-first-six-months-of-life-after-six-months-a-baby-needs-a-variety-of-other-foods-in-addition-to-breastmilk-to-ensure-healthy-growth", 
   "uuid": "5145fdf697b7420eacaa9ff9cc9d5a39"
 }
