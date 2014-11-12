@@ -2,17 +2,17 @@
   "subtitle": "", 
   "uuid": "84c39134746243a1a04fc013fd1b1e0e", 
   "language": "swh_TZ", 
-  "title": "Maendeleo ya Mtoto na Ujifunzaji wa Awali", 
+  "title": "Maendeleo ya watoto na kujifunza mapema", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "slug": "maendeleo-ya-mtoto-na-ujifunzaji-wa-awali", 
-  "source": "5eb7b6c9d98e4cec8aab6735acb4ef08", 
-  "position": 6, 
+  "slug": "maendeleo-ya-watoto-na-kujifunza-mapema", 
+  "source": null, 
+  "position": null, 
   "featured_in_navbar": false, 
   "id": "84c39134746243a1a04fc013fd1b1e0e"
 }
