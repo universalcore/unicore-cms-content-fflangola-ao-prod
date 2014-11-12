@@ -6,12 +6,12 @@
   "primary_category": "532fd0a3a4ec412f9b5d7f52fcaf3787", 
   "created_at": "2014-07-22T17:57:00+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-05T12:34:28.841570+00:00", 
+  "modified_at": "2014-11-12T08:41:30.631011+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,7 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
-  "position": 6, 
+  "position": 0, 
   "slug": "a-child-with-diarrhoea-should-receive-oral-rehydration-salts-ors-solution-and-a-daily-zinc-supplement-for-1014-days-diarrhoea-medicines-are-generally-ineffective-and-can-be-harmful", 
   "uuid": "392040b1eaca4e96a06da66deb08a119"
 }
