@@ -6,12 +6,12 @@
   "primary_category": "669a1d68010e413a96e8aefdf86ea142", 
   "created_at": "2014-09-09T12:21:18.401140+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-05T12:34:11.255805+00:00", 
+  "modified_at": "2014-11-12T08:41:25.499203+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,7 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
-  "position": 2, 
+  "position": 0, 
   "slug": "malaria-is-transmitted-through-the-bites-of-some-mosquitoes-sleeping-under-an-insecticide-treated-mosquito-net-is-the-best-way-to-prevent-mosquito-bites", 
   "uuid": "73aab20a74404b589f60155590f2c11f"
 }
