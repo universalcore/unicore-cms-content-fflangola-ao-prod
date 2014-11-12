@@ -4,23 +4,23 @@
   "language": "swh_TZ", 
   "title": "Kuanguka ni chanzo kikubwa cha majeraha kwa watoto. Ngazi, baraza la ghorofani, mapaa, madirisha na maeneo wanayotumia kwa kucheza na kulala yanapaswa kuwekwa katika hali ya usalama kwa kutumia vizuiz", 
   "primary_category": "8db1a6f44dd9426da7a50a4664bb84cf", 
-  "created_at": "2014-10-13T11:42:49+00:00", 
+  "created_at": "2014-10-13T11:42:49.116777+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-05T12:34:54.044026+00:00", 
+  "modified_at": "2014-11-12T08:40:27.408971+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
   "id": "fe858771acb6415ab8327380ab64ee1b", 
-  "content": "Mara nyingi watoto huanguka wakiwa wanajifunza kutembea, kukimbia na\r\nkuruka. Kuanguka kwingi kunasababisha mikwaruzo na michubuko. Wakati\r\nmwingine, kuanguka kunaweza kusababisha kuvunjika mifupa, majeraha ya\r\nkichwani au majeraha mengine makubwa, au hata kifo. \r\n\r\nWatoto wadogo wakiachwa bila watu wa kuwasimamia wanaweza kuanguka\r\nkutoka vitandani. Watoto wadogo wanaweza kuanguka kwenye ngazi au\r\nkutoka kwenye madirisha au baraza la ghorofani. Watoto hupenda kupanda\r\nvitu. Wanaweza kujeruhiwa vibaya kama wataanguka kutoka sehemu iliyo juu\r\nau kujaribu kupanda juu ya samani nzito ambazo zinaweza kuwaangukia.\r\n\r\n**Zaidi ya kutoa usimamizi, kuna haja ya kuchukua hatua kadhaa\r\nili kuzuia watoto wasianguke:**\r\n\r\n- wakataze na wazuie watoto kupanda juu mahali pasipo salama\r\n- usiwaruhusu watoto wacheze katika ngazi na baraza la ghorofa, na, ikiwa\r\nwatafanya hivyo, waangalie kwa makini\r\n- tumia uzio wenye upana na kimo kinachofaa pamoja na nondo ili kukinga\r\nsehemu za ngazi, madirisha na baraza la ghorofani\r\n- iweke nyumba katika hali ya usafi, iwe na mwanga wa kutosha na isiwe na\r\nvitu vyenye ncha kali na pembe zisizotengenezwa vizuri\r\n- watunze watoto vizuri kwa usalama wakikalia viti virefu\r\n- usimwache mtoto bila mtu wa kumwangalia kitandani, au katika chombo\r\nwatumiavyo watoto kutembelea au vifaa vingine\r\n- weka mbali na madirisha samani kama vile vitanda na viti\r\n- usiweke midoli au vitu vingine vya kuchezea watoto au vitu vingine\r\nvinavyoweza kuwavutia watoto juu ya rafu, na fungia ukutani samani nzito\r\nkama vile kabati au rafu. \r\n\r\n*Kwa Ushauri kuhusu kutoa Huduma ya Kwanza kwa mtu aliyevunjika mifupa,\r\nmwenye mikwaruzo, kuteguka au majeraha mengine, soma mwishoni mwa\r\nsura hii.*\r\n\r\n", 
+  "content": "Mara nyingi watoto huanguka wakiwa wanajifunza kutembea, kukimbia na kuruka.\nKuanguka kwingi kunasababisha mikwaruzo na michubuko. Wakati mwingine,\nkuanguka kunaweza kusababisha kuvunjika mifupa, majeraha ya kichwani au\nmajeraha mengine makubwa, au hata kifo. Watoto wadogo wakiachwa bila watu wa\nkuwasimamia wanaweza kuanguka kutoka vitandani. Watoto wadogo wanaweza\nkuanguka kwenye ngazi au kutoka kwenye madirisha au baraza la ghorofani.\nWatoto hupenda kupanda vitu. Wanaweza kujeruhiwa vibaya kama wataanguka kutoka\nsehemu iliyo juu au kujaribu kupanda juu ya samani nzito ambazo zinaweza\nkuwaangukia. **Zaidi ya kutoa usimamizi, kuna haja ya kuchukua hatua kadhaa\nili kuzuia watoto wasianguke:** \\- wakataze na wazuie watoto kupanda juu\nmahali pasipo salama \\- usiwaruhusu watoto wacheze katika ngazi na baraza la\nghorofa, na, ikiwa watafanya hivyo, waangalie kwa makini \\- tumia uzio wenye\nupana na kimo kinachofaa pamoja na nondo ili kukinga sehemu za ngazi,\nmadirisha na baraza la ghorofani \\- iweke nyumba katika hali ya usafi, iwe na\nmwanga wa kutosha na isiwe na vitu vyenye ncha kali na pembe zisizotengenezwa\nvizuri \\- watunze watoto vizuri kwa usalama wakikalia viti virefu \\- usimwache\nmtoto bila mtu wa kumwangalia kitandani, au katika chombo watumiavyo watoto\nkutembelea au vifaa vingine \\- weka mbali na madirisha samani kama vile\nvitanda na viti \\- usiweke midoli au vitu vingine vya kuchezea watoto au vitu\nvingine vinavyoweza kuwavutia watoto juu ya rafu, na fungia ukutani samani\nnzito kama vile kabati au rafu. *Kwa Ushauri kuhusu kutoa Huduma ya Kwanza kwa\nmtu aliyevunjika mifupa, mwenye mikwaruzo, kuteguka au majeraha mengine, soma\nmwishoni mwa sura hii.*\n\n", 
   "source": "83486e34053c4d9bb0f40f8615476883", 
   "featured": false, 
   "published": true, 
-  "position": 39, 
+  "position": 0, 
   "slug": "kuanguka-ni-chanzo-kikubwa-cha-majeraha-kwa-watoto-ngazi-baraza-la-ghorofani-mapaa-madirisha-na-maeneo-wanayotumia-kwa-kucheza-na-kulala-yanapaswa-kuwekwa-katika-hali-ya-usalama-kwa-kutumia-vizuiz", 
   "uuid": "fe858771acb6415ab8327380ab64ee1b"
 }
