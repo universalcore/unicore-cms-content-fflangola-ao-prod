@@ -6,12 +6,12 @@
   "primary_category": "e1da05c882364f7c891f9da57f5e981d", 
   "created_at": "2014-09-10T12:28:34.884965+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-12T08:41:22.948968+00:00", 
+  "modified_at": "2014-11-12T14:02:08.926536+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,7 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 9, 
   "slug": "every-woman-has-the-right-to-quality-health-care-especially-a-pregnant-woman-or-a-new-mother-health-workers-should-be-technically-competent-and-sensitive-to-cultural-practices-and-should-treat-all-w", 
   "uuid": "b0aabb438ba14e98ba9e69a767d923b0"
 }
