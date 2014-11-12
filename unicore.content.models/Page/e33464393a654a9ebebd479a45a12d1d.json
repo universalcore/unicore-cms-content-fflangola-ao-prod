@@ -6,12 +6,12 @@
   "primary_category": "3415ea2a4314433ca7645eff98afde2c", 
   "created_at": "2014-07-22T20:06:32+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-05T12:34:11.562850+00:00", 
+  "modified_at": "2014-11-12T08:41:26.962035+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,7 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
-  "position": 2, 
+  "position": 0, 
   "slug": "all-faeces-including-those-of-babies-and-young-children-should-be-disposed-of-safely-making-sure-that-all-family-members-use-a-toilet-latrine-or-potty-for-young-children-is-the-best-way-to-dispo", 
   "uuid": "e33464393a654a9ebebd479a45a12d1d"
 }
