@@ -6,21 +6,21 @@
   "primary_category": "580d1f91a1c84a08a30f201143d4f3a9", 
   "created_at": "2014-10-12T19:18:19.737421+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-05T12:35:03.560750+00:00", 
+  "modified_at": "2014-11-12T08:40:37.453066+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
   "id": "2c2ec1050ce147dd8851f92c7dbf140e", 
-  "content": "Watoto wanapokuwa wagonjwa, kwa mfano wanapokuwa na ugonjwa wa kuharisha,\r\nsurua au nyumonia, hamu yao ya kula chakula hupungua na miili yao hushindwa\r\nkutumia chakula vizuri. Ikiwa mtoto ataugua mara nyingi kwa mwaka, ukuaji wake\r\nutapungua au utasimama kabisa.\r\n\r\nNi muhimu sana kumuhimiza mtoto mgonjwa ale chakula. Hata hivyo inaweza kuwa\r\nvigumu kumfanya akubali kula kwa vile watoto wanaoumwa wanaweza wakawa\r\nhawapati njaa. Wazazi au walezi wa mtoto waendelee kumpa mtoto wa aina hiyo\r\nvyakula anavyopenda, kidogokidogo na mara kwa mara kadiri itakavyowezekana.\r\nUnyonyeshaji wa ziada ni muhimu sana kwa vile humwezesha mtoto mgonjwa kupata\r\nvirutubisho vinavyoweza kumponya dhidi ya maambukizo.\r\n\r\nNi muhimu kumhimiza mtoto mgonjwa anywe kinywaji kinachofaa mara kwa mara\r\nkadiri inavyowezekana. Kukaukiwa maji mwilini ni tatizo kubwa sana kwa watoto\r\nwanaougua ugonjwa wa kuharisha. Kunywa kwa wingi kinywaji kinachofaa kutasaidia\r\nkuzuia kukaukiwa maji mwilini. Mtoto anapokuwa na ugonjwa wa kuharisha apewe\r\nkinywaji maalumu cha chumvichumvi kilichopendekezwa na mtaalamu wa afya,\r\nambacho pamoja na chakula na vinywaji vingine vinavyofaa, huweza kuzuia kukaukiwa\r\nmaji mwilini. Kumpati mtoto dawa ya zinki kila siku kwa siku 10 hadi 14 kunaweza\r\nkupunguza makali ya ugonjwa wa kuharisha. Mtoto atakuwa amepona ugonjwa wa\r\nkuharisha pale tu atakapokuwa amerejesha uzito uliopotea tangu aanze kuugua.\r\n\r\nMtoto anaweza kupoteza maisha kwa kuharisha kwa muda mrefu kama\r\natacheleweshwa kutibiwa. Endapo mtoto ataendea kuharisha na kukosa hamu ya kula\r\nkwa siku kadhaa, wazazi wake au mlezi wamuone mtaalamu wa afya.\r\n\r\n*(Soma sura ya Ugonjwa wa Kuharisha kwa taarifa zaidi.)* ", 
+  "content": "Watoto wanapokuwa wagonjwa, kwa mfano wanapokuwa na ugonjwa wa kuharisha,\nsurua au nyumonia, hamu yao ya kula chakula hupungua na miili yao hushindwa\nkutumia chakula vizuri. Ikiwa mtoto ataugua mara nyingi kwa mwaka, ukuaji wake\nutapungua au utasimama kabisa. Ni muhimu sana kumuhimiza mtoto mgonjwa ale\nchakula. Hata hivyo inaweza kuwa vigumu kumfanya akubali kula kwa vile watoto\nwanaoumwa wanaweza wakawa hawapati njaa. Wazazi au walezi wa mtoto waendelee\nkumpa mtoto wa aina hiyo vyakula anavyopenda, kidogokidogo na mara kwa mara\nkadiri itakavyowezekana. Unyonyeshaji wa ziada ni muhimu sana kwa vile\nhumwezesha mtoto mgonjwa kupata virutubisho vinavyoweza kumponya dhidi ya\nmaambukizo. Ni muhimu kumhimiza mtoto mgonjwa anywe kinywaji kinachofaa mara\nkwa mara kadiri inavyowezekana. Kukaukiwa maji mwilini ni tatizo kubwa sana\nkwa watoto wanaougua ugonjwa wa kuharisha. Kunywa kwa wingi kinywaji\nkinachofaa kutasaidia kuzuia kukaukiwa maji mwilini. Mtoto anapokuwa na\nugonjwa wa kuharisha apewe kinywaji maalumu cha chumvichumvi kilichopendekezwa\nna mtaalamu wa afya, ambacho pamoja na chakula na vinywaji vingine vinavyofaa,\nhuweza kuzuia kukaukiwa maji mwilini. Kumpati mtoto dawa ya zinki kila siku\nkwa siku 10 hadi 14 kunaweza kupunguza makali ya ugonjwa wa kuharisha. Mtoto\natakuwa amepona ugonjwa wa kuharisha pale tu atakapokuwa amerejesha uzito\nuliopotea tangu aanze kuugua. Mtoto anaweza kupoteza maisha kwa kuharisha kwa\nmuda mrefu kama atacheleweshwa kutibiwa. Endapo mtoto ataendea kuharisha na\nkukosa hamu ya kula kwa siku kadhaa, wazazi wake au mlezi wamuone mtaalamu wa\nafya. *(Soma sura ya Ugonjwa wa Kuharisha kwa taarifa zaidi.)*\n\n", 
   "source": "9de40cd1f2fa42d499f9e6d3c835c3bc", 
   "featured": false, 
   "published": true, 
-  "position": 69, 
+  "position": 0, 
   "slug": "wakati-wa-ugonjwa-watoto-wadogo-wanapaswa-kupewa-maji-zaidi-ikiwa-ni-pamoja-na-maziwa-ya-mamakwa-mtoto-anayenyonyana-wahimizwe-kuendelea-kula-vyakula-vya-kawaida-baada-ya-ugonjwa-watoto-wadogo", 
   "uuid": "2c2ec1050ce147dd8851f92c7dbf140e"
 }
