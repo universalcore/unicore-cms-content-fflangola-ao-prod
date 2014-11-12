@@ -6,12 +6,12 @@
   "primary_category": "d9e9675890c74fad9bbe83edff36bb7c", 
   "created_at": "2014-09-12T10:30:56.953011+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-05T12:34:17.625716+00:00", 
+  "modified_at": "2014-11-12T08:41:03.240393+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,7 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
-  "position": 4, 
+  "position": 0, 
   "slug": "girls-and-boys-must-be-protected-from-all-forms-of-violence-and-abuse-this-includes-physical-sexual-and-emotional-abuse-neglect-and-harmful-practices-such-as-child-marriage-and-genital-mutilationc", 
   "uuid": "8310b2268c244582abc0f714bdd4d95d"
 }
