@@ -6,12 +6,12 @@
   "primary_category": "13268372781c4187a13a871b7c177fd0", 
   "created_at": "2014-09-12T11:02:13.799728+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-05T12:34:33.899476+00:00", 
+  "modified_at": "2014-11-12T08:40:57.126508+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,7 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
-  "position": 8, 
+  "position": 0, 
   "slug": "it-is-generally-preferable-for-children-to-be-cared-for-by-their-parents-or-other-usual-caregivers-because-it-makes-children-feel-more-secure-if-separation-occurs-every-effort-should-be-made-to-reun", 
   "uuid": "858c98743c894b078b1a5ad7eff3975b"
 }
