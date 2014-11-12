@@ -6,12 +6,12 @@
   "primary_category": "669a1d68010e413a96e8aefdf86ea142", 
   "created_at": "2014-09-09T12:14:20+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-12T08:41:25.787240+00:00", 
+  "modified_at": "2014-11-12T13:57:23.720031+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,7 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
-  "position": 0, 
+  "position": 1, 
   "slug": "wherever-malaria-is-present-children-are-in-danger-a-child-with-a-fever-should-be-examined-immediately-by-a-trained-health-worker-and-receive-an-appropriate-antimalarial-treatment-as-soon-as-possibl", 
   "uuid": "4b6973e558c64b22af55a866119adc9a"
 }
