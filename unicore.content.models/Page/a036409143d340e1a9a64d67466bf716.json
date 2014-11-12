@@ -6,12 +6,12 @@
   "primary_category": "74843060af944a698b9a33574f3275d4", 
   "created_at": "2014-09-12T09:31:11.817195+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-05T12:34:22.413042+00:00", 
+  "modified_at": "2014-11-12T08:41:08.439666+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,7 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
-  "position": 5, 
+  "position": 0, 
   "slug": "all-pregnant-women-and-their-newborns-need-to-be-protected-against-tetanus-even-if-a-woman-was-immunized-earlier-she-needs-to-check-with-a-trained-health-worker-for-advice-on-tetanus-toxoid-immuniza", 
   "uuid": "a036409143d340e1a9a64d67466bf716"
 }
