@@ -1,0 +1,18 @@
+{
+  "subtitle": "", 
+  "uuid": "f1977f57cd124b348820df64ee59bc1a", 
+  "language": "swh_TZ", 
+  "title": "Kuchanjwa", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "kuchanjwa", 
+  "source": null, 
+  "position": null, 
+  "featured_in_navbar": false, 
+  "id": "f1977f57cd124b348820df64ee59bc1a"
+}

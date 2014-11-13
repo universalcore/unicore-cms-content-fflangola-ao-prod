@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "Ili kuzuia ugonjwa wa kuhara, kinyesi chote, ikiwa ni pamoja na\r\ncha watoto wachanga na wadogo, kitupwe chooni au kifukiwe\r\nardhini.", 
+        "language": "swh_TZ", 
+        "title": "Ili kuzuia ugonjwa wa kuhara, kinyesi chote, ikiwa ni pamoja na cha watoto wachanga na wadogo, kitupwe chooni au kifukiwe ardhini.", 
+        "primary_category": "9e39b5f245b241b2af54c96932454c32", 
+        "created_at": "2014-10-12T20:43:56.893011+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-12T20:43:56.893318+00:00", 
+        "linked_pages": [], 
+        "slug": "ili-kuzuia-ugonjwa-wa-kuhara-kinyesi-chote-ikiwa-ni-pamoja-na-cha-watoto-wachanga-na-wadogo-kitupwe-chooni-au-kifukiwe-ardhini", 
+        "content": "Watoto na watu wazima wanaweza kumeza vijidudu ambavyo husababisha\r\nugonjwa wa kuhara ikiwa kinyesi kitaingia katika maji, chakula, mikono,\r\nvyombo vya chakula na eneo la kutayarishia chakula.\r\n\r\nNzi ambao hutua kwenye kinyesi kisha wakatua kwenye chakula pia\r\nhusambaza vijidudu vinavyosababisha ugonjwa wa kuhara. Ili kuondokana na\r\ninzi na kuzuia kusambaa kwa vijidudu, (1) tupa kinyesi chote chooni (2) weka\r\nchoo chako katika hali ya usafi na (3) funika chakula na maji ya kunywa.\r\n\r\nKinyesi, kiwe cha mtu mzima au cha mtoto mchanga hubeba vijidudu na ni\r\nhatari. Ikiwa watoto watajisaidia nje ya choo, kinyesi chao kiondolewe mara\r\nmoja na kutupwa chooni au kuchimbiwa ardhini. Baada ya hapo mikono\r\nisafishwe kwa sabuni na maji. Endapo hakuna sabuni, majivu na maji\r\nyanaweza kutumika kama njia mbadala. Wanaume na wavulana wawasaidie\r\nkina mama na wasichana kutupa kinyesi chooni.\r\n\r\nKama hakuna choo chochote, watu wazima na watoto wajisaidie mbali na\r\nnyumbani, na njiani, na vyanzo vya maji, na maeneo ya kuchezea watoto.\r\nWakishajisaidia wafukie kinyesi chao chini ardhini. Kinyesi cha binadamu na\r\nwanyama kisiwe karibu na chanzo cha maji.\r\n\r\nKatika jamii ambazo hazina vyoo, wanajamii washirikiane katika kujenga vyoo.\r\nKila kaya inaweza kuhimizwa kujenga choo chake.", 
+        "source": "5f831e04890747e988c33f9c9f41c674", 
+        "featured": false, 
+        "published": true, 
+        "position": 0, 
+        "id": "09759f2d072746d3ba1b1e4fe51cf252"
+    }, 
+    "model": "GitPageModel"
+}

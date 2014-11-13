@@ -1,0 +1,26 @@
+{
+  "subtitle": "", 
+  "description": "Both men and women, including adolescents, are responsible for family planning. Both partners need to know about the health benefits of family planning and the available options.", 
+  "language": "eng_UK", 
+  "title": "Both men and women, including adolescents, are responsible for family planning. Both partners need to know about the health benefits of family planning and the available options.", 
+  "primary_category": "c46a3615250b4430afdc6ff47cccc121", 
+  "created_at": "2014-09-10T11:36:37.899187+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-12T14:02:50.055739+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "bc5fd4453be44738af05ccacb9a3af47", 
+  "content": "Men and women, including adolescents, must take responsibility for preventing\nunplanned pregnancies. They should seek advice and have access to information\nfrom a trained health worker on the various methods and benefits of family\nplanning. Information can be obtained from a doctor, nurse, midwife, maternity\ncentre or family planning clinic. In some places, a teacher, a youth\norganization or a women's organization may also be able to provide this\ninformation.\n\n", 
+  "source": null, 
+  "featured": false, 
+  "published": true, 
+  "position": 4, 
+  "slug": "both-men-and-women-including-adolescents-are-responsible-for-family-planning-both-partners-need-to-know-about-the-health-benefits-of-family-planning-and-the-available-options", 
+  "uuid": "bc5fd4453be44738af05ccacb9a3af47"
+}

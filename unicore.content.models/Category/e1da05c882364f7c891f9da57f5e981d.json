@@ -1,0 +1,18 @@
+{
+  "subtitle": "", 
+  "uuid": "e1da05c882364f7c891f9da57f5e981d", 
+  "language": "eng_UK", 
+  "title": "Safe Motherhood and Newborn Health", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "safe-motherhood-and-newborn-health", 
+  "source": null, 
+  "position": 12, 
+  "featured_in_navbar": false, 
+  "id": "e1da05c882364f7c891f9da57f5e981d"
+}

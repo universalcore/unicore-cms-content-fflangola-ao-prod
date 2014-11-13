@@ -1,0 +1,18 @@
+{
+  "subtitle": "", 
+  "uuid": "8db1a6f44dd9426da7a50a4664bb84cf", 
+  "language": "swh_TZ", 
+  "title": "Ulinzi dhidi ya majeraha", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "ulinzi-dhidi-ya-majeraha", 
+  "source": null, 
+  "position": null, 
+  "featured_in_navbar": false, 
+  "id": "8db1a6f44dd9426da7a50a4664bb84cf"
+}

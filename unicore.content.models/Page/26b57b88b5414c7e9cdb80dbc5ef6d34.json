@@ -1,0 +1,26 @@
+{
+  "subtitle": "", 
+  "description": "Mtoto ambaye ana kikohozi cha muda mrefu kilichodumu kwa\r\nmuda wa zaidi ya wiki tatu anahitaji kufanyiwa uchunguzi\r\nharaka. Mtoto anaweza kuwa na kifua kikuu, maambukizo katika\r\nmapafu. ", 
+  "language": "swh_TZ", 
+  "title": "Mtoto ambaye ana kikohozi cha muda mrefu kilichodumu kwa muda wa zaidi ya wiki tatu anahitaji kufanyiwa uchunguzi haraka. Mtoto anaweza kuwa na kifua kikuu, maambukizo katika mapafu. ", 
+  "primary_category": "2ffe198e7447448e825f4cb543fb7267", 
+  "created_at": "2014-10-13T09:12:56.142954+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-12T08:40:31.209253+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "26b57b88b5414c7e9cdb80dbc5ef6d34", 
+  "content": "Kifua kikuu ni ugonjwa hatari ambao unaweza kumuua mtoto au kusababisha\nuharibifu wa kudumu wa mapafu yake. Familia pamoja na walezi wengine wanaweza\nkuzuia kifuakikuu endapo watahakikisha kwamba watoto: \\- wamepata chanjo zote\n\u2014 chanjo ya BCG hukinga watoto dhidi ya aina fulani fulani za kifua kikuus\u0000 \\-\nhawachanganyiki na mtu yeyote mwenye kifua kikuu au ambaye anakohoa makozi\nyenye mchanganyiko wa damu. Ikiwa mtaalamu wa afya ametoa dawa maalumu ya\nkutibu kifua kikuu, ni lazima mtoto apewe dawa kwa kuzingatia maelekezo ya\nmtaalamu huyo. Mtoto apewe dawa mpaka amalize dozi aliyoandikiwa hata kama\nataonyesha dalili za kupona. Endapo mtoto hatamaliza dozi ya dawa, kuna hatari\nya vijidudu vya ugonjwa kujenga usugu wa dawa, na hivyo kufanya ugonjwa\nusitibike kirahisi endapo utakapomshika tena mtoto.\n\n", 
+  "source": "9897260153e342c3b7ed11f4491aec95", 
+  "featured": false, 
+  "published": true, 
+  "position": 0, 
+  "slug": "mtoto-ambaye-ana-kikohozi-cha-muda-mrefu-kilichodumu-kwa-muda-wa-zaidi-ya-wiki-tatu-anahitaji-kufanyiwa-uchunguzi-haraka-mtoto-anaweza-kuwa-na-kifua-kikuu-maambukizo-katika-mapafu", 
+  "uuid": "26b57b88b5414c7e9cdb80dbc5ef6d34"
+}

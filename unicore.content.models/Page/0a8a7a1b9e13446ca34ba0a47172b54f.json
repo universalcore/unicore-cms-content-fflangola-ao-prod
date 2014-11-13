@@ -1,0 +1,26 @@
+{
+  "subtitle": "", 
+  "description": "Kila mtu anayeishi na VVU anapaswa kujua haki zake.", 
+  "language": "swh_TZ", 
+  "title": "Kila mtu anayeishi na VVU anapaswa kujua haki zake. ", 
+  "primary_category": "62caccc5066b4e9f82185983536893fb", 
+  "created_at": "2014-10-13T14:38:07+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-12T08:40:18.381129+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "0a8a7a1b9e13446ca34ba0a47172b54f", 
+  "content": "Serikali zina wajibu wa kuhakikisha haki za watoto na wanafamilia\nwalioambukizwa au kuathiriwa na VVU zinalindwa, na wajibu wa kushirikiana na\nfamilia, jamii na asasi zisizo za kiserikali na za kidini kulifanikisha jambo\nhilo. Pale UKIMWI unapokuwa katika mazingira ya umaskini uliokithiri, ya\nmigogoro na familia kubwa, kusaidia watoto wote yatima na wale wote\nwanaokabiliwa na hatari mbalimbali ndio mkakati rahisi na wa busara. Watoto\nwalioambukizwa au kuathiriwa na VVU wanapaswa kujumuishwa kikamilifu katika\nmkakati wa aina hiyo na haki zao kulindwa \u2013ikiwa ni pamoja na haki ya faragha,\nusiri na ya kutobaguliwa. Watoto wengi huishi katika mazingira magumu bila\nulinzi kamili wa haki zao. Wanaweza kuambukizwa VVU au kuwa katika hatari\nhiyo. Wanaweza kuishi mitaani, katika vituo vya watoto yatima au katika\numaskini uliokithiri au mazingira ya unyonywaji. Watoto hawa wana haki ya\nkuishi katika familia. Familia zao zinaweza kuhitaji msaada ili kuziwezesha\nziishi pamoja na watoto hao. Watoto walio mbali na familia zao wanaweza\nkuhitaji msaada wa kuungana na familia zao, ikiwa wanapenda hivyo. Watoto wote\nhawa hawana budi kupata msaada wa kwenda shuleni au kupata mafunzo ya ufundi\nstadi. Wanahitaji msaada wa kupata huduma za afya na matunzo ya lishe, huduma\nza kisheria na ustawi wa jamii. Wanahitaji na wana haki ya kupata huduma hizi.\nSerikali za mitaa, asasi zisizo za serikali, mashirika ya kidini na asasi za\nkijamii zinaweza kuwasaidia akina mama, akina baba, walezi, watoto na\nwasichana wanaoishi na VVU au walioathiriwa na UKIMWI kujua haki zao na\nkuelewa jinsi ya kuzidai kwa kuzingatia mifumo ya kisheria na kiutawala,\nhalikadhalika mamlaka za serikali zenye dhamana ya sera, programu na huduma\nmbalimbali. Watoto waishio na VVU wanapaswa kushirikishwa kikamilifu katika\nmaamuzi yote yanayowaathiri, kulingana na uwezo wao unaokua polepole. Nafasi\nyao kama mawakili wa haki za binadamu na waelimishaji rika inapaswa\nkuimarishwa na kuendelezwa ipasavyo.\n\n", 
+  "source": "f89532f36a97443fbddd60f30d310e6f", 
+  "featured": false, 
+  "published": true, 
+  "position": 0, 
+  "slug": "kila-mtu-anayeishi-na-vvu-anapaswa-kujua-haki-zake", 
+  "uuid": "0a8a7a1b9e13446ca34ba0a47172b54f"
+}

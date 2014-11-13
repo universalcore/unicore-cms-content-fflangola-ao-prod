@@ -1,0 +1,26 @@
+{
+  "subtitle": "", 
+  "description": "Kadi ya chanjo ya mtoto (au mtu mzima) itolewe kwa mtaalamu\r\nwa afya kabla ya kutolewa kwa chanjo.", 
+  "language": "swh_TZ", 
+  "title": "Kadi ya chanjo ya mtoto (au mtu mzima) itolewe kwa mtaalamu wa afya kabla ya kutolewa kwa chanjo.", 
+  "primary_category": "f1977f57cd124b348820df64ee59bc1a", 
+  "created_at": "2014-10-12T19:59:30.938490+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-12T08:40:34.741453+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "b297b08a24174364b56dbb4267faef1c", 
+  "content": "Ni muhimu kufuata ratiba ya chanjo kwa kuzingatia miongozo ya kitaifa. Watoto\nwanapaswa kupewa chanjo katika umri uliopendekezwa na wanapaswa kupewa chanjo\nzinazofuata kwa kufuata vipindi vilivyopendekezwa. Mtoto anapopewa chanjo,\nmtaalamu wa afya anapaswa kuingiza, kwenye kadi ya chanjo au ya afya\niliyotolewa kwa wazazi au walezi, kumbukumbu za chanjo, aina ya dozi (ya\nkwanza, pili, n.k.) na tarehe ya chanjo husika. Kumbukumbu za chanjo zinapaswa\npia kutunzwa katika kituo cha afya/ zahanati. Ni muhimu kwa wazazi au walezi\nwengine kutunza kadi hii na kwenda nayo wakati wanapompeleka mtoto kupata\nchanjo. Kwa kuwa na kadi, mtaalamu wa afya anaweza kutunza kumbukumbu za aina\nza chanjo ambazo tayari mtoto ameshapewa, na tarehe zilizotolewa. Kadi pia\nitawapa wazazi au walezi wengine taarifa kuhusu kinga zinazokosekana au\nzilizosalia.\n\n", 
+  "source": "92ea35dfdad04815bae2a6fe3bdc446c", 
+  "featured": false, 
+  "published": true, 
+  "position": 0, 
+  "slug": "kadi-ya-chanjo-ya-mtoto-au-mtu-mzima-itolewe-kwa-mtaalamu-wa-afya-kabla-ya-kutolewa-kwa-chanjo", 
+  "uuid": "b297b08a24174364b56dbb4267faef1c"
+}

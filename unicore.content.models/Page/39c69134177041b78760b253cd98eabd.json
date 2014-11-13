@@ -1,0 +1,26 @@
+{
+  "subtitle": "", 
+  "description": "About", 
+  "language": "eng_UK", 
+  "title": "About Facts for Life", 
+  "primary_category": null, 
+  "created_at": "2014-10-13T16:00:10.352025+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-12T08:40:14.804801+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "39c69134177041b78760b253cd98eabd", 
+  "content": "Each year, around 9 million children die from preventable and treatable\nillnesses before reaching their fifth birthday. Many die during their first\nyear of life. Countless more children live in precarious situations and face\ndiminished futures. Facts for Life provides vital messages and information for\nmothers, fathers, other family members and caregivers and communities to use\nin changing behaviours and practices that can save and protect the lives of\nchildren and help them grow and develop to their full potential. This version\nof Facts for Life builds on the three previous editions, which have been\nhelping families and communities around the world since 1989. Facts for Life\nis a trusted resource that is written in easy-to-understand language. Previous\nversions were translated into 215 languages. Users of this fourth edition are\nencouraged to be innovative in finding ways to extend the reach of the Facts\nfor Life messages to help families and communities realize the rights of\nchildren and women everywhere. If you translate all or part of the book, or\nknow of translations into other languages, share them with us and we will post\nthem on the Facts for Life site!\n\n", 
+  "source": null, 
+  "featured": false, 
+  "published": true, 
+  "position": 0, 
+  "slug": "about", 
+  "uuid": "39c69134177041b78760b253cd98eabd"
+}

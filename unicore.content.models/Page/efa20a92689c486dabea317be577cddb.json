@@ -1,0 +1,26 @@
+{
+  "subtitle": "", 
+  "description": "Ni salama kumchanja mtoto mwenye ugonjwa wa kawaida au\r\nulemavu, au utapiamlo. ", 
+  "language": "swh_TZ", 
+  "title": "Ni salama kumchanja mtoto mwenye ugonjwa wa kawaida au ulemavu, au utapiamlo. ", 
+  "primary_category": "f1977f57cd124b348820df64ee59bc1a", 
+  "created_at": "2014-10-12T19:43:20.569171+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-12T08:40:36.060946+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "efa20a92689c486dabea317be577cddb", 
+  "content": "Wazazi wengi hawampeleki mtoto kwenda kupewa chanjo kwa sababu mtoto ana homa,\nkikohozi, mafua, anaharisha, au anaumwa ugonjwa mwingine. Hata hivyo, ni\nsalama kumpa chanjo mtoto mwenye ugonjwa wa kawaida. Ni salama pia kumpa\nchanjo mtoto mwenye ulemavu au utapiamlo. Kama mtoto ana virusi vya UKIMWI\n(VVU) au anahisiwa kuwa na VVU, mtaalamu wa afya anapaswa kuonwa ili atoe\nushauri kuhusu aina ya chanjo inayofaa kwa mtoto. Baada ya kuchomwa sindano ya\nchanjo, mtoto anaweza kulia au kupandisha homa, kuwa na mchubuko au kidonda\nkidogo. Hali hii ni ya kawaida na huonyesha kuwa chanjo inafanya kazi. Watoto\nwenye umri wa chini ya miezi 6 wanapaswa kunyonyeshwa maziwa ya mama mara kwa\nmara; watoto wenye umri mkubwa wanapaswa kupewa vinywaji na vyakula vingi.\nKama mtoto atapandisha homa (kwa zaidi ya nyuzijoto 38) anapaswa kupelekwa kwa\nmtaalamu wa afya au kituo cha afya. Surua huweza kuwa hatari mno kwa watoto\nwenye utapiamlo, hivyo wanapaswa kupewa chanjo ya surua, hususani kama\nutapiamlo ni mkali.\n\n", 
+  "source": "007912a649254721b9c7be1f50a316c9", 
+  "featured": false, 
+  "published": true, 
+  "position": 0, 
+  "slug": "ni-salama-kumchanja-mtoto-mwenye-ugonjwa-wa-kawaida-au-ulemavu-au-utapiamlo", 
+  "uuid": "efa20a92689c486dabea317be577cddb"
+}

@@ -1,0 +1,26 @@
+{
+  "subtitle": "", 
+  "description": "Watoto hujifunza tabia (kimahusiano na kihisia ) kwa kuiga\r\nkutoka kwa watu walioko karibu sana nao. ", 
+  "language": "swh_TZ", 
+  "title": "Watoto hujifunza tabia (kimahusiano na kihisia ) kwa kuiga kutoka kwa watu walioko karibu sana nao. ", 
+  "primary_category": "84c39134746243a1a04fc013fd1b1e0e", 
+  "created_at": "2014-10-12T17:33:25.181801+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-12T08:40:43.810313+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "ba8ddce6f6c2443bbc58c0016a3b1af5", 
+  "content": "Kwa kuona na kuiga watu wengine, mtoto mdogo hujifunza namna ya kuishi na watu\nwengine. Hujifunza tabia zile zinazokubalika na hata zile zisizokubalika.\nTabia zinazoonyeshwa na wazazi, ndugu wa mtoto pamoja na watoto wenzake zina\nnguvu kubwa kabisa ya kumjengea mtoto mwelekeo wa kitabia na wa utu wake. Njia\nmoja inayotumiwa na mtoto katika kujifunza ni kuiga yale yanayofanywa na watu\nwengine. Endapo wanaume na wanawake wanabaguana, mtoto atajionea, atajifunza\nna pengine kuiga tabia hiyo. Iwapo wazazi huzoza hovyo, hugombana, hudharau\nwatu wengine au kuwabagua, watoto hujifunza pia tabia hizo za wazazi. Endapo\nwatu wazima wataishi kwa kupendana, kuheshimiana na kuvumiliana watoto\nwatawaiga pia. Iwapo baba na mama wanaheshimiana na kupendana, hiyo ndiyo\ntabia ambayo watoto wao watajifunza na bila shaka kuiendeleza wakati\nwatakapokuwa watu wazima. Watoto hupenda kuiga majukumu. Wakifanya hivyo\nwasifiwe kwani hiyo ni njia mojawapo ya kujijua na kujijengea ubunifu. Aidha\nnjia hii huwasaidia watoto katika kutambua tabia mbalimbali za watu.\n\n", 
+  "source": "484d8d931f974d4a96295059792d9ab2", 
+  "featured": false, 
+  "published": true, 
+  "position": 0, 
+  "slug": "watoto-hujifunza-tabia-kimahusiano-na-kihisia-kwa-kuiga-kutoka-kwa-watu-walioko-karibu-sana-nao", 
+  "uuid": "ba8ddce6f6c2443bbc58c0016a3b1af5"
+}

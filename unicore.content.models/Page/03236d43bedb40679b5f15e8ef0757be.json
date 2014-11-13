@@ -1,0 +1,26 @@
+{
+  "subtitle": "", 
+  "description": "Chakula, vyombo, na maandalizi ya sehemu zinazotumiwa\r\nkuhifadhia chakula vinapaswa kuwa safi na mbali na wanyama.\r\nChakula hupaswa kuhifadhiwa katika vyombo vilivyofunikwa.", 
+  "language": "swh_TZ", 
+  "title": "Chakula, vyombo, na maandalizi ya sehemu zinazotumiwa kuhifadhia chakula vinapaswa kuwa safi na mbali na wanyama. Chakula hupaswa kuhifadhiwa katika vyombo vilivyofunikwa.", 
+  "primary_category": "ab26c6bfad66410a82b0e274f4c3b729", 
+  "created_at": "2014-10-13T10:48:02.962660+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-12T08:40:29.157350+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "03236d43bedb40679b5f15e8ef0757be", 
+  "content": "Vijidudu vilivyo katika chakula vinaweza kumezwa na kusababisha ugonjwa. Ili\nkuzuia chakula kisiingiwe na vijidudu: \\- weka sehemu za kuandalia chakula\nkatika hali ya usafi \\- weka katika hali ya usafi na vifunike visu, vyombo vya\nkupikia, sufuria na sahani \\- Fua kikamilifu vitambaa vinavyotumika kuoshea\nvyombo kila siku na vikaushe juani; safisha sahani na vyombo mapema baada ya\nkula na viweke katika uchanja ili vikauke \\- weka chakula katika vyombo safi\nvilivyofunikwa ili kuzuia vijidudu na wanyama \\- usitumie chupa wala mipira ya\nkunyonyeshea kwa sababu inaweza kuwa na vijidudu ambavyo huweza kusababisha\nugonjwa wa kuhara. Wanyonyeshe au walishe watoto kwa kutumia kikombe kisafi\nkilicho wazi. Ikiwa chupa/mpira unatumika, safisha kwa maji yaliyochemshwa\nkila baada ya kutumia.\n\n", 
+  "source": "7d0be6c6d4754e3e8f77adf63400e4b4", 
+  "featured": false, 
+  "published": true, 
+  "position": 0, 
+  "slug": "chakula-vyombo-na-maandalizi-ya-sehemu-zinazotumiwa-kuhifadhia-chakula-vinapaswa-kuwa-safi-na-mbali-na-wanyama-chakula-hupaswa-kuhifadhiwa-katika-vyombo-vilivyofunikwa", 
+  "uuid": "03236d43bedb40679b5f15e8ef0757be"
+}

@@ -1,0 +1,26 @@
+{
+  "subtitle": "", 
+  "description": "Why it is important", 
+  "language": "eng_UK", 
+  "title": "Why it is important", 
+  "primary_category": "3415ea2a4314433ca7645eff98afde2c", 
+  "created_at": "2014-11-12T13:53:31+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-12T13:54:42.381583+00:00", 
+  "_version": {
+    "package_version": "0.2.6", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Young children are more vulnerable than any other age group to the ill effects of unsafe water, poor sanitation and lack of hygiene. These contribute to 88 per cent of deaths from diarrhoeal diseases. Children under 5 years old account for nearly 90 per cent of deaths from diarrhoea.\r\n\r\nThe simple habit of handwashing with soap is estimated to reduce the incidence of diarrhoea by nearly half. It also greatly reduces the risk of respiratory infections such as pneumonia and other diseases, including eye infections, especially trachoma.\r\n\r\nParents and caregivers should wash their hands with soap and water at these critical moments: (1) after cleaning the infant or young child who has defecated, (2) after helping the child use the toilet or latrine, (3) after going to the latrine or toilet themselves, (4) before touching food and feeding young children, and (5) after dealing with refuse.\r\n\r\nParents and caregivers need to help children develop the habit of washing their hands with soap before eating and after using the latrine or toilet. Where soap is not available hands can be washed with ash and water. Animal and human faeces should be kept away from houses, paths, water sources and children's play areas.\r\n\r\nThe use of latrines and toilets together with good hygiene practices \u2013 specifically hand washing with soap \u2013 are essential public health tools. They protect children and families at little cost and help realize children's right to good health and nutrition.\r\n\r\nEveryone in the community needs to work together to build and use toilets or latrines, practise good hygiene, protect water sources, and safely dispose of waste water and refuse.\r\n\r\nIt is important for governments to support communities by providing information on how to design and build latrines and toilets that all families can afford. In urban areas particularly, government support is also needed for low-cost sanitation and drainage systems, safe drinking water and refuse collection.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "published": null, 
+  "position": 8, 
+  "slug": "why-it-important-16", 
+  "uuid": "e6740bc4d3a64cc4977b459f0538314a"
+}

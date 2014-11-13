@@ -1,0 +1,18 @@
+{
+  "subtitle": "", 
+  "uuid": "580d1f91a1c84a08a30f201143d4f3a9", 
+  "language": "swh_TZ", 
+  "title": "Lishe na ukuaji", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "lishe-na-ukuaji", 
+  "source": null, 
+  "position": null, 
+  "featured_in_navbar": false, 
+  "id": "580d1f91a1c84a08a30f201143d4f3a9"
+}

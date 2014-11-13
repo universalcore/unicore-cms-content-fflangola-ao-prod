@@ -1,0 +1,18 @@
+{
+  "subtitle": "", 
+  "uuid": "9e39b5f245b241b2af54c96932454c32", 
+  "language": "swh_TZ", 
+  "title": "Maradhi ya kuharisha", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "maradhi-ya-kuharisha", 
+  "source": null, 
+  "position": null, 
+  "featured_in_navbar": false, 
+  "id": "9e39b5f245b241b2af54c96932454c32"
+}
