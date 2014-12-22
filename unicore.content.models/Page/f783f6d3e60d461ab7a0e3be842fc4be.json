@@ -6,12 +6,12 @@
   "primary_category": "1ea47579bccd4d0d85e0ffa5c3ce3cda", 
   "created_at": "2014-09-10T14:11:19.440915+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:12:43.254018+00:00", 
+  "modified_at": "2014-12-22T15:11:40.773347+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 3, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 4, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "breastfeeding-helps-protect-babies-and-young-children-against-dangerous-illnesses-it-also-creates-a-special-bond-between-mother-and-child", 
   "uuid": "f783f6d3e60d461ab7a0e3be842fc4be"
 }
