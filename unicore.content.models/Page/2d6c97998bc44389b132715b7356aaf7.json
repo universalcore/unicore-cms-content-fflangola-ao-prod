@@ -4,17 +4,22 @@
   "language": "por_PT", 
   "title": "Imuniza\u00e7\u00e3o - Vacina\u00e7\u00e3o, Desparasita\u00e7\u00e3o e Vitamina A", 
   "primary_category": "d402353aebff41b98e859c7a69db3112", 
-  "created_at": "2014-12-23T11:43:44.128097+00:00", 
+  "created_at": "2014-12-23T11:43:44+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-23T11:43:44.128278+00:00", 
+  "modified_at": "2014-12-23T13:02:33.884870+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "c61505a399a74763ac05405e18d3ee96", 
+    "ee875716e8f54e33b2cc583d0d5fc2ea", 
+    "90171a7964ea4147bb29b4231d1c67e9", 
+    "b18a0876f6da4390974af3dad7ed05ee"
+  ], 
   "id": null, 
   "content": "A IMPORT\u00c2NCIA DAS VACINAS PARA A SA\u00daDE DA CRIAN\u00c7A\r\n\r\n- Todo o corpo vacinado \u00e9 como uma casa com portas e janelas fechadas e o corpo que n\u00e3o est\u00e1 vacinado \u00e9 como uma casa deixada com janelas abertas: o vento, os mosquitos e as doen\u00e7as podem entrar.\r\n\r\n\r\n![enter image description here][1]\r\n\r\nN\u00c3O SE PREOCUPE COM OS EFEITOS SECUND\u00c1RIOS DAS VACINAS\r\n\r\n- As m\u00e3es n\u00e3o se devem assustar se a crian\u00e7a tiver febre ap\u00f3s a vacina\u00e7\u00e3o. \u00c9 pr\u00f3prio da vacina.\r\nA crian\u00e7a vai recuperar logo em seguida.\r\n\r\n![enter image description here][2]\r\n\r\nAPRENDA A CONHECER O CALEND\u00c1RIO DE VACINA\u00c7\u00c3O DA SUA CRIAN\u00c7A\r\n\r\nAs crian\u00e7as at\u00e9 1 ano de idade devem ser levados \u00e0 vacina 5 vezes:\r\n\r\n- Ao nascer\r\n- Aos 2 meses\r\n- Aos 4 meses\r\n- Aos 6 meses\r\n- Aos 9 meses\r\n\r\nAs m\u00e3es devem procurar perceber o que est\u00e1 escrito no cart\u00e3o de vacina, porque vai-lhes ajudar a saber quando voltar ao centro de sa\u00fade.\r\n\r\nSe n\u00e3o conseguem ler ou se n\u00e3o entendem as imagens, pe\u00e7am aos vossos maridos, uma amiga ou parteira para vos apoiar. Mesmo se as crian\u00e7as receberem as vacinas nas campanhas, devem seguir com o calend\u00e1rio, indo ao posto ou centro de Sa\u00fade nas datas indicadas no cart\u00e3o.\r\n\r\n![enter image description here][3]\r\n\r\nA VITAMINA A PARA UMA BOA VIS\u00c3O DA SUA CRIAN\u00c7A\r\n\r\n- As m\u00e3es devem saber que a Vitamina A ajuda a crian\u00e7a a ter boa vis\u00e3o e prevenir outras doen\u00e7as; \u00e9 dada junto com as vacinas no 6\u00ba e no 9\u00ba m\u00eas, em gotas.\r\n\r\n- Sucessivamente, os pais dever\u00e3o contactar o t\u00e9cnico de sa\u00fade para administrar a vitamina A\r\n\u00e0 crian\u00e7a de 6 em 6 meses at\u00e9 aos 5 anos de idade.\r\n\r\n![enter image description here][4]\r\n\r\nA CRIAN\u00c7A DESPARASITADA \u00c9 UMA CRIAN\u00c7A FELIZ\r\n\r\n- Para tirar as lombrigas e o maculo, o Albendazol \u00e9 um medicamento que tem de ser dado \u00e0 crian\u00e7a de 6 em 6 meses, mas s\u00f3 a partir de um ano de idade. Utilizar produtos tradicionais contra os parasitas \u00e9 muito perigoso para as crian\u00e7as.\r\n\r\n![enter image description here][5]\r\n\r\n\r\n  [1]: http://s17.postimg.org/5yqdrs53j/IMUNIZA_O_1.jpg\r\n  [2]: http://s14.postimg.org/n8bwnpr01/IMUNICACAO_2.jpg\r\n  [3]: http://s10.postimg.org/v6slms121/IMUNIZACAO_3.jpg\r\n  [4]: http://s24.postimg.org/wjf4cg1p1/IMUNIZA_O_5.jpg\r\n  [5]: http://s18.postimg.org/prlkyuxy1/IMUNIZA_O_6.jpg", 
   "source": null, 
