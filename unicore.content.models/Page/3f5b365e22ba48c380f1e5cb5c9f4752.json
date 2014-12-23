@@ -4,17 +4,25 @@
   "language": "por_PT", 
   "title": "Lavagem das M\u00e3os com \u00c1gua e Sab\u00e3o", 
   "primary_category": "0fb0c6daa505460ea8b45dba16361cdd", 
-  "created_at": "2014-12-23T13:50:42.611476+00:00", 
+  "created_at": "2014-12-23T13:50:42+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-23T13:50:42.611747+00:00", 
+  "modified_at": "2014-12-23T14:43:29.545044+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "135d7c4e1f854758a47f9ca2de3981e6", 
+    "d14680a4b4074ee390102475031e25a5", 
+    "2d6c97998bc44389b132715b7356aaf7", 
+    "c61505a399a74763ac05405e18d3ee96", 
+    "ee875716e8f54e33b2cc583d0d5fc2ea", 
+    "90171a7964ea4147bb29b4231d1c67e9", 
+    "b18a0876f6da4390974af3dad7ed05ee"
+  ], 
   "id": null, 
   "content": "POR QUE LAVAR AS M\u00c3OS COM \u00c1GUA E SAB\u00c3O\r\n\r\n- A lavagem das m\u00e3os com \u00e1gua e sab\u00e3o \u00e9 uma pr\u00e1tica que pode salvar a vida das nossas crian\u00e7as.\r\n\r\n- A lavagem das m\u00e3os com \u00e1gua e sab\u00e3o previne a c\u00f3lera, diarreias, lombrigas (maculo), p\u00f3lio e doen\u00e7as respirat\u00f3rias agudas nas crian\u00e7as, tais como br\u00f4nquios (bronquite), pneumonia e tosse.\r\n\r\n![enter image description here][1]\r\n\r\nQUANDO DEVEMOS LAVAR AS M\u00c3OS COM \u00c1GUA E SAB\u00c3O\r\n\r\nAs m\u00e3es e os pais devem sempre lavar as m\u00e3os com \u00e1gua e sab\u00e3o e devem velar para que as crian\u00e7as o fa\u00e7am:\r\n\r\n- Antes de comer;\r\n- Depois de utilizar o quarto de banho ou latrina;\r\n- Antes de preparar os alimentos;\r\n- Antes de trocar a fralda do beb\u00e9;\r\n- Depois de trocar a fralda do beb\u00e9.\r\n\r\nPara isso, \u00e9 importante ter sempre um peda\u00e7o de sab\u00e3o, mas n\u00e3o se deve lavar as m\u00e3os directamente na \u00e1gua do balde ou banheira.\r\n\r\n![enter image description here][2]\r\n\r\nQUE PRODUTOS UTILIZAR PARA LAVAR AS M\u00c3OS\r\n\r\n- Lavar as m\u00e3os s\u00f3 com \u00e1gua n\u00e3o \u00e9 suficiente! Use sempre o sab\u00e3o para matar os micr\u00f3bios.\r\n\r\n- Se n\u00e3o tiver sab\u00e3o, pode lavar com sabonete, sab\u00e3o em p\u00f3 ou cinza.\r\n\r\n![enter image description here][3]\r\n\r\n\r\n  [1]: http://s2.postimg.org/i0jxmocll/LAVAGEM_1.jpg\r\n  [2]: http://s15.postimg.org/f9qihduij/LAVAGEM_2.jpg\r\n  [3]: http://s2.postimg.org/rcf6b43wp/LAVAGEM_3.jpg", 
   "source": null, 
@@ -22,7 +30,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "lavagem-das-maos-com-agua-e-sabao", 
   "uuid": "3f5b365e22ba48c380f1e5cb5c9f4752"
