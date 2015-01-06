@@ -6,12 +6,12 @@
   "primary_category": "319aaca06cec474ca81d6103e0d6fcc3", 
   "created_at": "2014-12-23T13:57:14+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-23T14:43:14.183964+00:00", 
+  "modified_at": "2015-01-06T10:55:45.037224+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -22,14 +22,18 @@
     "c61505a399a74763ac05405e18d3ee96", 
     "ee875716e8f54e33b2cc583d0d5fc2ea", 
     "90171a7964ea4147bb29b4231d1c67e9", 
-    "b18a0876f6da4390974af3dad7ed05ee"
+    "b18a0876f6da4390974af3dad7ed05ee", 
+    "d3b0b1d1680643449ea0af9d5e7137db", 
+    "259d978d5b1c49479f879a3463693405", 
+    "3b49e0abc7e24974a9e5fe9e61ef989b", 
+    "ad7128b3bab14cfbadeb8c59b75ffe39"
   ], 
   "id": null, 
-  "content": "CADA FAM\u00cdLIA DEVE TER E UTILIZAR SEMPRE UMA LATRINA\r\n\r\n- Ao defecar ao ar livre, as fam\u00edlias correm o risco de circular no ambiente v\u00e1rias doen\u00e7as como a p\u00f3lio, c\u00f3lera, diarreias, dor de barriga e v\u00f3mitos. Por isso, mais vale construir uma latrina do que gastar muito dinheiro em medicamentos.\r\n\r\n- Se estiver fora de casa e n\u00e3o tiver acesso a uma latrina por perto, ent\u00e3o deve cavar com uma p\u00e1 ou enxada e enterrar as fezes em profundidade.\r\n\r\nHIGIENE E LIMPEZA DAS LATRINAS\r\n\r\n- As m\u00e3es devem cuidar sempre das latrinas, mant\u00ea-las desinfectadas e tapadas, para evitar quedas e doen\u00e7as nas crian\u00e7as pequenas.\r\n\r\n- Para desinfect\u00e1-las, as m\u00e3es podem utilizar produtos como lix\u00edvia, desinfectante, vinagre ou cinza.\r\n\r\n![enter image description here][1]\r\n\r\n\r\n  [1]: http://s1.postimg.org/qw3mznwu7/DEFECACAO_1.jpg", 
+  "content": "CADA FAM\u00cdLIA DEVE TER E UTILIZAR SEMPRE UMA LATRINA\r\n\r\n- Ao defecar ao ar livre, as fam\u00edlias correm o risco de circular no ambiente v\u00e1rias doen\u00e7as como a p\u00f3lio, c\u00f3lera, diarreias, dor de barriga e v\u00f3mitos. Por isso, mais vale construir uma latrina do que gastar muito dinheiro em medicamentos.\r\n\r\n- Se estiver fora de casa e n\u00e3o tiver acesso a uma latrina por perto, ent\u00e3o deve cavar com uma p\u00e1 ou enxada e enterrar as fezes em profundidade.\r\n\r\nHIGIENE E LIMPEZA DAS LATRINAS\r\n\r\n- As m\u00e3es devem cuidar sempre das latrinas, mant\u00ea-las desinfectadas e tapadas, para evitar quedas e doen\u00e7as nas crian\u00e7as pequenas.\r\n\r\n- Para desinfect\u00e1-las, as m\u00e3es podem utilizar produtos como lix\u00edvia, desinfectante, vinagre ou cinza.\r\n\r\n\r\n  [1]: http://s1.postimg.org/qw3mznwu7/DEFECACAO_1.jpg", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
-  "image": null, 
+  "image": "be58f40549db447cbe9f2ae67021635a", 
   "published": null, 
   "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
