@@ -6,12 +6,12 @@
   "primary_category": "5bd86a7fcd9e4eb193c84341375d090b", 
   "created_at": "2014-12-23T13:40:00+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-23T14:43:43.795752+00:00", 
+  "modified_at": "2015-01-06T10:52:16.333735+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,14 +20,19 @@
     "c61505a399a74763ac05405e18d3ee96", 
     "ee875716e8f54e33b2cc583d0d5fc2ea", 
     "90171a7964ea4147bb29b4231d1c67e9", 
-    "b18a0876f6da4390974af3dad7ed05ee"
+    "b18a0876f6da4390974af3dad7ed05ee", 
+    "d3b0b1d1680643449ea0af9d5e7137db", 
+    "259d978d5b1c49479f879a3463693405", 
+    "3b49e0abc7e24974a9e5fe9e61ef989b", 
+    "ad7128b3bab14cfbadeb8c59b75ffe39", 
+    "3f5b365e22ba48c380f1e5cb5c9f4752"
   ], 
   "id": null, 
-  "content": "TRATE SEMPRE A \u00c1GUA\r\n\r\nPara evitar as diarreias, c\u00f3lera ou lombrigas (maculo), trate sempre a \u00e1gua antes de beber.\r\n\r\n- Para 20 litros de \u00e1gua utilizar 2 tampas com lix\u00edvia\r\n\r\n- Para 1 litro de \u00e1gua junte 5 gotas de lix\u00edvia para desinfetar\r\n\r\n- Esperar 30 minutos antes de beber a \u00e1gua\r\n\r\n- Ferver a \u00e1gua para beber durante 15 minutos.\r\n\r\n- A \u00e1gua para beber deve ser guardada num balde bem limpo e bem tapado.\r\n\r\n![enter image description here][1]\r\n\r\n\r\n  [1]: http://s12.postimg.org/bsv2vyqfh/TRATAMENTO_GUA.jpg", 
+  "content": "TRATE SEMPRE A \u00c1GUA\r\n\r\nPara evitar as diarreias, c\u00f3lera ou lombrigas (maculo), trate sempre a \u00e1gua antes de beber.\r\n\r\n- Para 20 litros de \u00e1gua utilizar 2 tampas com lix\u00edvia\r\n\r\n- Para 1 litro de \u00e1gua junte 5 gotas de lix\u00edvia para desinfetar\r\n\r\n- Esperar 30 minutos antes de beber a \u00e1gua\r\n\r\n- Ferver a \u00e1gua para beber durante 15 minutos.\r\n\r\n- A \u00e1gua para beber deve ser guardada num balde bem limpo e bem tapado.\r\n\r\n\r\n  [1]: http://s12.postimg.org/bsv2vyqfh/TRATAMENTO_GUA.jpg", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
-  "image": null, 
+  "image": "cfef2c2da45543a7ad29e9ed89f44fb2", 
   "published": null, 
   "position": 5, 
   "image_host": "http://thumbor.unicore.io", 
