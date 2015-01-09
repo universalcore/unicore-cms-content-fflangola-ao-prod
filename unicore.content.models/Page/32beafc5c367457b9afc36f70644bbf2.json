@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Descobrir se temos o VIH", 
+  "language": "por_PT", 
+  "title": "Descobrir se temos o VIH", 
+  "primary_category": "920db0141b9f47f0ba0a874e9e56f089", 
+  "created_at": "2015-01-09T12:15:29.784341+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-09T12:15:29.784565+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "As mulheres com VIH podem pass\u00e1-lo aos seus beb\u00e9s durante a gravidez, o trabalho de parto, o parto e a amamenta\u00e7\u00e3o. Por isso \u00e9 importante fazer o teste do VIH, o quanto antes poss\u00edvel, para poder receber cuidados m\u00e9dicos durante a gravidez, para diminuir o risco de passar o VIH para o beb\u00e9.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "descobrir-se-temos-o-vih", 
+  "uuid": "32beafc5c367457b9afc36f70644bbf2"
+}
