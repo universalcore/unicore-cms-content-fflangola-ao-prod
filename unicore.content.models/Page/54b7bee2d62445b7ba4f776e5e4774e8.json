@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Boa alimenta\u00e7\u00e3o na gravidez", 
+  "language": "por_PT", 
+  "title": "Boa alimenta\u00e7\u00e3o na gravidez", 
+  "primary_category": "920db0141b9f47f0ba0a874e9e56f089", 
+  "created_at": "2015-01-09T12:11:46.970428+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-09T12:11:46.970679+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "A m\u00e3e gr\u00e1vida precisa de boa alimenta\u00e7\u00e3o e comer 4 ou 5 vezes por dia: couve, kizaka, rama, gimboa, lombi, todo o tipo de verduras, frutas como banana ou manga, carnes, peixe, legumes como cenouras e tomates e cereais como p\u00e3o, milho e arroz, leite, ovos e funje, ajudam a gr\u00e1vida e o beb\u00e9 a nascer bem forte.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "boa-alimentacao-na-gravidez", 
+  "uuid": "54b7bee2d62445b7ba4f776e5e4774e8"
+}
