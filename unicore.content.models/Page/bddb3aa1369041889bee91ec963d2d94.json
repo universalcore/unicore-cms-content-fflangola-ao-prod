@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Cuidados na Gravidez", 
+  "language": "por_PT", 
+  "title": "Cuidados na Gravidez", 
+  "primary_category": "920db0141b9f47f0ba0a874e9e56f089", 
+  "created_at": "2015-01-09T12:09:43.667448+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-09T12:09:43.672105+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Na gravidez, a m\u00e3e deve repousar e evitar esfor\u00e7os violentos como partir ou cortar lenha, acarretar \u00e1gua com grandes recipientes em localidades distantes ou lavar no tanque, para a sua boa sa\u00fade e a sa\u00fade do seu beb\u00e9.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "cuidados-na-gravidez", 
+  "uuid": "bddb3aa1369041889bee91ec963d2d94"
+}
