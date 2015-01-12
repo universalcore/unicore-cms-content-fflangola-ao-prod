@@ -3,15 +3,15 @@
   "description": "Imuniza\u00e7\u00e3o - Vacina\u00e7\u00e3o, Desparasita\u00e7\u00e3o e Vitamina A", 
   "language": "por_PT", 
   "title": "Imuniza\u00e7\u00e3o - Vacina\u00e7\u00e3o, Desparasita\u00e7\u00e3o e Vitamina A", 
-  "primary_category": "d402353aebff41b98e859c7a69db3112", 
+  "primary_category": "7b89a60599764968b4925e40d871ad5d", 
   "created_at": "2014-12-23T11:43:44+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-06T10:48:36.526581+00:00", 
+  "modified_at": "2015-01-12T11:25:05.514165+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -34,7 +34,7 @@
   "author_tags": [], 
   "image": "80e7940052fa4d23b3b46b78e54851c9", 
   "published": null, 
-  "position": 7, 
+  "position": 16, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "imunizacao-vacinacao-desparasitacao-e-vitamina", 
   "uuid": "2d6c97998bc44389b132715b7356aaf7"
