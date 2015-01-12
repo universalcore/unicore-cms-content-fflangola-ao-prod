@@ -6,12 +6,12 @@
   "primary_category": "7b89a60599764968b4925e40d871ad5d", 
   "created_at": "2014-12-23T10:49:45+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-12T11:30:56.712538+00:00", 
+  "modified_at": "2015-01-12T11:31:16.411255+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "8225e777726543d7998b45cd45c2a102", 
   "published": null, 
-  "position": 7, 
+  "position": 8, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "aleitamento-materno", 
   "uuid": "c61505a399a74763ac05405e18d3ee96"
