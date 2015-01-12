@@ -3,15 +3,15 @@
   "description": "Tratamento Caseiro da \u00c1gua", 
   "language": "por_PT", 
   "title": "Tratamento Caseiro da \u00c1gua", 
-  "primary_category": "5bd86a7fcd9e4eb193c84341375d090b", 
+  "primary_category": "7b89a60599764968b4925e40d871ad5d", 
   "created_at": "2014-12-23T13:40:00+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-06T10:52:33.710501+00:00", 
+  "modified_at": "2015-01-12T11:26:19.338527+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -28,13 +28,13 @@
     "3f5b365e22ba48c380f1e5cb5c9f4752"
   ], 
   "id": null, 
-  "content": "TRATE SEMPRE A \u00c1GUA\r\n\r\nPara evitar as diarreias, c\u00f3lera ou lombrigas (maculo), trate sempre a \u00e1gua antes de beber.\r\n\r\n- Para 20 litros de \u00e1gua utilizar 2 tampas com lix\u00edvia\r\n\r\n- Para 1 litro de \u00e1gua junte 5 gotas de lix\u00edvia para desinfetar\r\n\r\n- Esperar 30 minutos antes de beber a \u00e1gua\r\n\r\n- Ferver a \u00e1gua para beber durante 15 minutos.\r\n\r\n- A \u00e1gua para beber deve ser guardada num balde bem limpo e bem tapado.\r\n\r\n\r\n  [1]: http://s12.postimg.org/bsv2vyqfh/TRATAMENTO_GUA.jpg", 
+  "content": "TRATE SEMPRE A \u00c1GUA\r\n\r\nPara evitar as diarreias, c\u00f3lera ou lombrigas (maculo), trate sempre a \u00e1gua antes de beber.\r\n\r\n- Para 20 litros de \u00e1gua utilizar 2 tampas com lix\u00edvia\r\n\r\n- Para 1 litro de \u00e1gua junte 5 gotas de lix\u00edvia para desinfetar\r\n\r\n- Esperar 30 minutos antes de beber a \u00e1gua\r\n\r\n- Ferver a \u00e1gua para beber durante 15 minutos.\r\n\r\n- A \u00e1gua para beber deve ser guardada num balde bem limpo e bem tapado.", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": "cfef2c2da45543a7ad29e9ed89f44fb2", 
   "published": null, 
-  "position": 5, 
+  "position": 14, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "tratamento-caseiro-da-agua", 
   "uuid": "135d7c4e1f854758a47f9ca2de3981e6"
