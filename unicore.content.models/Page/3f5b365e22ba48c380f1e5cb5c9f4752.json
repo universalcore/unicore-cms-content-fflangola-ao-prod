@@ -3,15 +3,15 @@
   "description": "Lavagem das M\u00e3os com \u00c1gua e Sab\u00e3o", 
   "language": "por_PT", 
   "title": "Lavagem das M\u00e3os com \u00c1gua e Sab\u00e3o", 
-  "primary_category": "0fb0c6daa505460ea8b45dba16361cdd", 
+  "primary_category": "7b89a60599764968b4925e40d871ad5d", 
   "created_at": "2014-12-23T13:50:42+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-06T10:54:25.406865+00:00", 
+  "modified_at": "2015-01-12T11:26:57.087281+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -28,13 +28,13 @@
     "ad7128b3bab14cfbadeb8c59b75ffe39"
   ], 
   "id": null, 
-  "content": "POR QUE LAVAR AS M\u00c3OS COM \u00c1GUA E SAB\u00c3O\r\n\r\n- A lavagem das m\u00e3os com \u00e1gua e sab\u00e3o \u00e9 uma pr\u00e1tica que pode salvar a vida das nossas crian\u00e7as.\r\n\r\n- A lavagem das m\u00e3os com \u00e1gua e sab\u00e3o previne a c\u00f3lera, diarreias, lombrigas (maculo), p\u00f3lio e doen\u00e7as respirat\u00f3rias agudas nas crian\u00e7as, tais como br\u00f4nquios (bronquite), pneumonia e tosse.\r\n\r\nQUANDO DEVEMOS LAVAR AS M\u00c3OS COM \u00c1GUA E SAB\u00c3O\r\n\r\nAs m\u00e3es e os pais devem sempre lavar as m\u00e3os com \u00e1gua e sab\u00e3o e devem velar para que as crian\u00e7as o fa\u00e7am:\r\n\r\n- Antes de comer;\r\n- Depois de utilizar o quarto de banho ou latrina;\r\n- Antes de preparar os alimentos;\r\n- Antes de trocar a fralda do beb\u00e9;\r\n- Depois de trocar a fralda do beb\u00e9.\r\n\r\nPara isso, \u00e9 importante ter sempre um peda\u00e7o de sab\u00e3o, mas n\u00e3o se deve lavar as m\u00e3os directamente na \u00e1gua do balde ou banheira.\r\n\r\nQUE PRODUTOS UTILIZAR PARA LAVAR AS M\u00c3OS\r\n\r\n- Lavar as m\u00e3os s\u00f3 com \u00e1gua n\u00e3o \u00e9 suficiente! Use sempre o sab\u00e3o para matar os micr\u00f3bios.\r\n\r\n- Se n\u00e3o tiver sab\u00e3o, pode lavar com sabonete, sab\u00e3o em p\u00f3 ou cinza.\r\n\r\n  [1]: http://s2.postimg.org/i0jxmocll/LAVAGEM_1.jpg\r\n  [2]: http://s15.postimg.org/f9qihduij/LAVAGEM_2.jpg\r\n  [3]: http://s2.postimg.org/rcf6b43wp/LAVAGEM_3.jpg", 
+  "content": "POR QUE LAVAR AS M\u00c3OS COM \u00c1GUA E SAB\u00c3O\r\n\r\n- A lavagem das m\u00e3os com \u00e1gua e sab\u00e3o \u00e9 uma pr\u00e1tica que pode salvar a vida das nossas crian\u00e7as.\r\n\r\n- A lavagem das m\u00e3os com \u00e1gua e sab\u00e3o previne a c\u00f3lera, diarreias, lombrigas (maculo), p\u00f3lio e doen\u00e7as respirat\u00f3rias agudas nas crian\u00e7as, tais como br\u00f4nquios (bronquite), pneumonia e tosse.\r\n\r\nQUANDO DEVEMOS LAVAR AS M\u00c3OS COM \u00c1GUA E SAB\u00c3O\r\n\r\nAs m\u00e3es e os pais devem sempre lavar as m\u00e3os com \u00e1gua e sab\u00e3o e devem velar para que as crian\u00e7as o fa\u00e7am:\r\n\r\n- Antes de comer;\r\n- Depois de utilizar o quarto de banho ou latrina;\r\n- Antes de preparar os alimentos;\r\n- Antes de trocar a fralda do beb\u00e9;\r\n- Depois de trocar a fralda do beb\u00e9.\r\n\r\nPara isso, \u00e9 importante ter sempre um peda\u00e7o de sab\u00e3o, mas n\u00e3o se deve lavar as m\u00e3os directamente na \u00e1gua do balde ou banheira.\r\n\r\nQUE PRODUTOS UTILIZAR PARA LAVAR AS M\u00c3OS\r\n\r\n- Lavar as m\u00e3os s\u00f3 com \u00e1gua n\u00e3o \u00e9 suficiente! Use sempre o sab\u00e3o para matar os micr\u00f3bios.\r\n\r\n- Se n\u00e3o tiver sab\u00e3o, pode lavar com sabonete, sab\u00e3o em p\u00f3 ou cinza.", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": "f7c02a5bcecb4375a78ea69d0a036e9f", 
   "published": null, 
-  "position": 4, 
+  "position": 13, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "lavagem-das-maos-com-agua-e-sabao", 
   "uuid": "3f5b365e22ba48c380f1e5cb5c9f4752"
