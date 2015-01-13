@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Diarreia e Soro Oral", 
+  "description": "6. Diarreia e Soro Oral", 
   "language": "por_PT", 
-  "title": "Diarreia e Soro Oral", 
+  "title": "6. Diarreia e Soro Oral", 
   "primary_category": "7b89a60599764968b4925e40d871ad5d", 
   "created_at": "2014-12-23T13:35:19+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-12T11:37:01.120918+00:00", 
+  "modified_at": "2015-01-13T09:36:52.172815+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
