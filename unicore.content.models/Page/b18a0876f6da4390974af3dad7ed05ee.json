@@ -6,12 +6,12 @@
   "primary_category": "7b89a60599764968b4925e40d871ad5d", 
   "created_at": "2014-12-22T13:51:01+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-03-06T09:21:40.668766+00:00", 
+  "modified_at": "2015-03-06T09:23:03.476667+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 8, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "gravidez-e-consultas-pre-natais", 
   "uuid": "b18a0876f6da4390974af3dad7ed05ee"
