@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "swh_TZ", 
+        "title": "Kuharisha", 
+        "slug": "kuharisha", 
+        "source": "532fd0a3a4ec412f9b5d7f52fcaf3787", 
+        "position": null, 
+        "featured_in_navbar": false, 
+        "id": "9e39b5f245b241b2af54c96932454c32"
+    }, 
+    "model": "GitCategoryModel"
+}

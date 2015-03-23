@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Cr\u00e9ditos", 
+  "language": "por_PT", 
+  "title": "Cr\u00e9ditos", 
+  "primary_category": null, 
+  "created_at": "2014-12-10T11:47:48+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-20T07:38:36.438729+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "A Receita da Felicidade foi concebida pelo Minist\u00e9rio da Fam\u00edlia e Promo\u00e7\u00e3o da Mulher de Angola (MINFAMU) e pelo UNICEF com o apoio das seguintes organiza\u00e7\u00f5es: Conselho de Igrejas Crist\u00e3s em Angola, Igreja Evang\u00e9lica Baptista em Angola (IEBA), Igreja Evang\u00e9lica Congregacional em Angola (IECA), Igreja Evang\u00e9lica Reformada de Angola (IERA), Igreja Adventista do S\u00e9timo Dia, Organiza\u00e7\u00e3o de Solidariedade Comunit\u00e1ria para o Desenvolvimento (OSCOD), Pastoral da Crian\u00e7a, Instituto Nacional da Crian\u00e7a (INAC), Igreja Assembleia de Deus Pentecostal; Igreja Metodista Unida em Angola, Igreja Evangelista de Angola (IEA), Associa\u00e7\u00e3o Luta pela Vihda (LPV) e Igreja Universal do Reino de Deus. \r\n", 
+  "source": "30b9ef5dad1442879539565cdada1754", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 29, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "credits", 
+  "uuid": "5babe634c3e9400c80acc8e14bea0d03"
+}

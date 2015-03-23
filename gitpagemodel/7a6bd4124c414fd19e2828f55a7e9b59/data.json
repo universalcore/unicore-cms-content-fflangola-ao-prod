@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "Chanjo ni lazima. Kila mtoto lazima akamilishe idadi ya chanjo\r\nanazostahili kupata. Kinga ya mapema ni muhimu sana; chanjo\r\nkatika mwaka wa kwanza na wa pili ni muhimu sana. Wazazi\r\nwote au walezi wanapaswa kufuata ushauri wa mtaalamu wa\r\nafya kuhusu muda wa kukamilisha chanjo.", 
+        "language": "swh_TZ", 
+        "title": "Chanjo ni lazima. Kila mtoto lazima akamilishe idadi ya chanjo anazostahili kupata. Kinga ya mapema ni muhimu sana; chanjo katika mwaka wa kwanza na wa pili ni muhimu sana. Wazazi wote au walezi wanap", 
+        "primary_category": "f1977f57cd124b348820df64ee59bc1a", 
+        "created_at": "2014-10-12T19:35:42.980147+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-12T19:35:42.980313+00:00", 
+        "linked_pages": [], 
+        "slug": "chanjo-ni-lazima-kila-mtoto-lazima-akamilishe-idadi-ya-chanjo-anazostahili-kupata-kinga-ya-mapema-ni-muhimu-sana-chanjo-katika-mwaka-wa-kwanza-na-wa-pili-ni-muhimu-sana-wazazi-wote-au-walezi-wanap", 
+        "content": "Watoto lazima wapewe chanjo mapema maishani mwao. Ni muhimu watoto\r\nwachanga\u2014wasichana na wavulana\u2014wapate chanjo zote zilizopendekezwa\r\nkwa wakati sahihi. Baadhi ya chanjo hutolewa kwa dozi mchanganyiko kwa\r\najili ya ulinzi kamili. Ni muhimu kwa kila mtoto kukamilisha idadi ya chanjo.\r\n\r\nIli kumlinda mtoto wakati na baada ya mwaka wa kwanza tangu kuzaliwa,\r\nchanjo zilizopo katika chati ifuatayo ni za lazima. Chanjo hizi ni madhubuti sana\r\nzinapotolewa katika au karibu na umri uliobainishwa.", 
+        "source": "6b3e12efa5404ccfbd35fcff29804add", 
+        "featured": false, 
+        "published": true, 
+        "position": 0, 
+        "id": "7a6bd4124c414fd19e2828f55a7e9b59"
+    }, 
+    "model": "GitPageModel"
+}
