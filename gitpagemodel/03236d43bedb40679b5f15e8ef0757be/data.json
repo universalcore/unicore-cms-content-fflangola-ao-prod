@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "Chakula, vyombo, na maandalizi ya sehemu zinazotumiwa\r\nkuhifadhia chakula vinapaswa kuwa safi na mbali na wanyama.\r\nChakula hupaswa kuhifadhiwa katika vyombo vilivyofunikwa.", 
+        "language": "swh_TZ", 
+        "title": "Chakula, vyombo, na maandalizi ya sehemu zinazotumiwa kuhifadhia chakula vinapaswa kuwa safi na mbali na wanyama. Chakula hupaswa kuhifadhiwa katika vyombo vilivyofunikwa.", 
+        "primary_category": "ab26c6bfad66410a82b0e274f4c3b729", 
+        "created_at": "2014-10-13T10:48:02+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-13T10:48:08.285111+00:00", 
+        "linked_pages": [], 
+        "slug": "chakula-vyombo-na-maandalizi-ya-sehemu-zinazotumiwa-kuhifadhia-chakula-vinapaswa-kuwa-safi-na-mbali-na-wanyama-chakula-hupaswa-kuhifadhiwa-katika-vyombo-vilivyofunikwa", 
+        "content": "Vijidudu vilivyo katika chakula vinaweza kumezwa na kusababisha ugonjwa. Ili\r\nkuzuia chakula kisiingiwe na vijidudu:\r\n\r\n- weka sehemu za kuandalia chakula katika hali ya usafi\r\n- weka katika hali ya usafi na vifunike visu, vyombo vya kupikia, sufuria na\r\nsahani\r\n- Fua kikamilifu vitambaa vinavyotumika kuoshea vyombo kila siku na\r\nvikaushe juani; safisha sahani na vyombo mapema baada ya kula na viweke\r\nkatika uchanja ili vikauke\r\n- weka chakula katika vyombo safi vilivyofunikwa ili kuzuia vijidudu na\r\nwanyama\r\n- usitumie chupa wala mipira ya kunyonyeshea kwa sababu inaweza\r\nkuwa na vijidudu ambavyo huweza kusababisha ugonjwa wa kuhara.\r\nWanyonyeshe au walishe watoto kwa kutumia kikombe kisafi kilicho wazi.\r\nIkiwa chupa/mpira unatumika, safisha kwa maji yaliyochemshwa kila baada\r\nya kutumia.", 
+        "source": "7d0be6c6d4754e3e8f77adf63400e4b4", 
+        "featured": false, 
+        "published": true, 
+        "position": 0, 
+        "id": "03236d43bedb40679b5f15e8ef0757be"
+    }, 
+    "model": "GitPageModel"
+}

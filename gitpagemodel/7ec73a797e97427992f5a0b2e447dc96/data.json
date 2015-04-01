@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "Fujo dhidi ya wanawake ni tatizo kubwa la afya ya jamii katika \r\njamii nyingi. Kunyanyaswa kwa mama wakati wa ujauzito ni \r\njambo hatari sana kwa mama na mtoto aliye tumboni. ", 
+        "language": "swh_TZ", 
+        "title": "Fujo dhidi ya wanawake ni tatizo kubwa la afya ya jamii katika  jamii nyingi. Kunyanyaswa kwa mama wakati wa ujauzito ni  jambo hatari sana kwa mama na mtoto aliye tumboni. ", 
+        "primary_category": "27038d5886564782adcce92ec89494eb", 
+        "created_at": "2014-10-10T19:52:12.483196+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-10T19:52:12.483515+00:00", 
+        "linked_pages": [], 
+        "slug": "fujo-dhidi-ya-wanawake-ni-tatizo-kubwa-la-afya-ya-jamii-katika-jamii-nyingi-kunyanyaswa-kwa-mama-wakati-wa-ujauzito-ni-jambo-hatari-sana-kwa-mama-na-mtoto-aliye-tumboni", 
+        "content": "Endapo mama mjamzito atabughudhiwa, yeye pamoja na mtoto wake \r\naliye tumboni wataweza kupata madhara makubwa ya kimwili. Mwanamke \r\nmjamzito ambaye amenyanyaswa kimwili inawezekana asiweze kupata tena \r\nwatoto. \r\n\r\nWatu wa familia yake pamoja na wanajamii wengine hawana budi kuzifahamu \r\nhatari hizi na kumlinda mama mjamzito. Jamii, kwa kusaidiana na serikali ya \r\nmtaa na vyama mbalimbali vya kijamii katika eneo husika, ina jukumu la (1) \r\nkuzingatia sheria inayopinga vurugu na unyanyasaji (2) kutoa huduma za ulinzi \r\nzinazoweza kupatikana kirahisi kwa wanawake wanaonyanyaswa.", 
+        "source": "39a96da600da44fca5bd34b7422fcf5a", 
+        "featured": false, 
+        "published": true, 
+        "position": 0, 
+        "id": "7ec73a797e97427992f5a0b2e447dc96"
+    }, 
+    "model": "GitPageModel"
+}
