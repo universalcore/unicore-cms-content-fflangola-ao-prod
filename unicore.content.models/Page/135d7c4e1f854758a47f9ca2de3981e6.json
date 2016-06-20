@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "3f5b365e22ba48c380f1e5cb5c9f4752"
+  ], 
   "id": null, 
   "content": "TRATE SEMPRE A \u00c1GUA\r\n\r\nPara evitar as diarreias, c\u00f3lera ou lombrigas (maculo), trate sempre a \u00e1gua antes de beber.\r\n\r\n- Para 20 litros de \u00e1gua utilizar 2 tampas com lix\u00edvia\r\n\r\n- Para 1 litro de \u00e1gua junte 5 gotas de lix\u00edvia para desinfetar\r\n\r\n- Esperar 30 minutos antes de beber a \u00e1gua\r\n\r\n- Ferver a \u00e1gua para beber durante 15 minutos.\r\n\r\n- A \u00e1gua para beber deve ser guardada num balde bem limpo e bem tapado.\r\n\r\n![enter image description here][1]\r\n\r\n\r\n  [1]: http://s3.amazonaws.com/unicefimages/IOGTimages/Angola_FFL/Tratamento_1.jpg", 
   "source": null, 
